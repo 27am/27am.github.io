@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Andrea Merlina</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://27am.github.io/post/</link>
+      <atom:link href="https://27am.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://27am.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://27am.github.io/post/</link>
     </image>
     
     <item>
       <title>Zerocash</title>
-      <link>/post/2019-07-22-zerocash/</link>
+      <link>https://27am.github.io/post/2019-07-22-zerocash/</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019-07-22-zerocash/</guid>
+      <guid>https://27am.github.io/post/2019-07-22-zerocash/</guid>
       <description>&lt;p&gt;Zerocash is a decentralized cryptocurrency platform that aims at improving privacy of transaction through advanced cryptographic functions. It is designed to extend already existing coins, sometimes referred as “basecoin”, with two new types of transaction:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -51,9 +51,9 @@ Moreover, since the amount of zerocoins is anonymous by construction it is impos
     
     <item>
       <title>Advanced Blockchain Storage</title>
-      <link>/post/2019-07-22-advanced-blockchain-storage/</link>
+      <link>https://27am.github.io/post/2019-07-22-advanced-blockchain-storage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2019-07-22-advanced-blockchain-storage/</guid>
+      <guid>https://27am.github.io/post/2019-07-22-advanced-blockchain-storage/</guid>
       <description>&lt;p&gt;InterPlanetary File System (IPFS) is a peer to peer distributed file system. It provides storage models that are content addressed and take advantage of cryptographic data structures as Distributed Hash Tables and Merkle Directed Acyclic Graphs (MDAGs) with the declared purpose of constituting the filesystem of all the connected computers.&lt;br&gt;
 &lt;br&gt;
 Filecoin is a cryptocurrency that lays on top of IPFS as incentive layer to host files in exchange for valuable tokens. It builds a marketplace for bidding between providers and consumers.&lt;br&gt;
@@ -69,9 +69,9 @@ Finally, BigChainDB is a data storage solution that stands in a common ground be
     
     <item>
       <title>Alternative consensus</title>
-      <link>/post/2019-02-27-alternative-consensus/</link>
+      <link>https://27am.github.io/post/2019-02-27-alternative-consensus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2019-02-27-alternative-consensus/</guid>
+      <guid>https://27am.github.io/post/2019-02-27-alternative-consensus/</guid>
       <description>&lt;p&gt;The success of Bitcoin and the so called Nakamoto consensus that scales with thousands of mining nodes caused a renewed interest in consensus protocols.&lt;br&gt;
 &lt;br&gt;
 Some have existed and used for many years, each with its system model, strengths and tradeoffs. The most notable examples are Paxos and &lt;a href=&#34;http://pmg.csail.mit.edu/papers/osdi99.pdf&#34;&gt;PBFT&lt;/a&gt;.&lt;br&gt;
@@ -101,9 +101,9 @@ Algorand’s approach on the other hand is Proof of Stake based, with a selectio
     
     <item>
       <title>Applications for blockchain</title>
-      <link>/post/2019-06-27-application-blockchain/</link>
+      <link>https://27am.github.io/post/2019-06-27-application-blockchain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2019-06-27-application-blockchain/</guid>
+      <guid>https://27am.github.io/post/2019-06-27-application-blockchain/</guid>
       <description>&lt;p&gt;Blockchain has revolutionized the financial industry, providing a technical way to overcome previously unsolved problems. The same technology has been investigated for applications in different areas, most notably energy, supply chain, healthcare and internet of things. &lt;br&gt;
 &lt;br&gt;
 Internet of Things (IoT) in particular, presents traits that at first sight might be incompatible with the hypothesis required by the classical Bitcoin’s blockchain. IoT devices are computationally bounded and might be unavailable/offline for an arbitrary amount of time. A solution that has been proposed is to cluster group of devices and delegate demanding tasks to Head nodes that provide characteristics more suited to participate in the consensus of a blockchain. This has been done for example in [2] where, as an optimization, the authors introduce a reputation system to prevent a node having to validate all the transactions. Basically, what happens is that nodes responsible to execute the consensus algorithm, keep and update a trust table with information about the nodes that proposed both valid and invalid blocks. The principle behind the table is that if the node believes another peer to be trustworthy, it can skip some validation work. Another feature presented is the Dynamically Adjusted Throughput algorithm, put in place to facilitate scalability in presence of big numbers of participating nodes. Moreover, the consensus algorithm is a breed similar to Proof of Elapsed time without the deployment of the Trusted Execution Environment (TEE). Security properties hold because head nodes keep a list about the allowed participants, making the system a permissioned blockchain. &lt;br&gt;
@@ -122,9 +122,9 @@ Authors of [3] investigate improvements in the energy trading system of smart gr
     
     <item>
       <title>Bitcoin in research</title>
-      <link>/post/2019-02-12-bitcoin-in-research/</link>
+      <link>https://27am.github.io/post/2019-02-12-bitcoin-in-research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2019-02-12-bitcoin-in-research/</guid>
+      <guid>https://27am.github.io/post/2019-02-12-bitcoin-in-research/</guid>
       <description>&lt;p&gt;Bitcoin has opened a branch on new research aspects, while establishing itself as a prominent example of a system whose practice precedes the theory. Nakamoto himself mentioned how he implemented the code first and worked on the whitepaper afterwards.&lt;br&gt;
 &lt;br&gt;
 The achievement of devising a decentralized cryptocurrency after 25 years of attempts is, as it sounds, impressive and is the result of both previous contributions and novelty elements.
@@ -167,9 +167,9 @@ In conclusion, Bitcoin came out as a solution for a long sought-after problem. I
     
     <item>
       <title>Corda</title>
-      <link>/post/2019-03-22-corda/</link>
+      <link>https://27am.github.io/post/2019-03-22-corda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2019-03-22-corda/</guid>
+      <guid>https://27am.github.io/post/2019-03-22-corda/</guid>
       <description>&lt;p&gt;Corda is a Distributed Ledger Technology (DLT) developed to target financial industries use cases and for this reason the requirements are slightly different than other blockchain platforms.&lt;br&gt;
 &lt;br&gt;
 The main purpose is to be able to execute financial smart contracts that hold legal value and can be used in courts or in case of disputes. In order to do so, Corda developers decided to adopt a Turing-complete approach pretty similar to Ethereum.&lt;br&gt;
@@ -209,9 +209,9 @@ All considered, Corda is an interesting solution for a specific portion of users
     
     <item>
       <title>Ethereum</title>
-      <link>/post/2019-03-10-ethereum/</link>
+      <link>https://27am.github.io/post/2019-03-10-ethereum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2019-03-10-ethereum/</guid>
+      <guid>https://27am.github.io/post/2019-03-10-ethereum/</guid>
       <description>&lt;p&gt;Ethereum was born in the universe of cryptocurrencies but aims at becoming more than that. Its philosophy has been to extend the potential of the scripting language, making it Turing-complete and, as a consequence, a general-purpose platform of computation.
 That means that in principle Ethereum could be used to implement any altcoin’s functionality.
 This approach opens a lot of interesting use cases but brings some problems along with it. How, for example, could we prevent a user to deplete all the resources through a never-ending execution?&lt;br&gt;
@@ -253,9 +253,9 @@ The aim of Ethereum is ambitious, and there is a lot of curiosity about how it w
     
     <item>
       <title>How to read a book</title>
-      <link>/post/2019-01-14-how-to-read-a-book/</link>
+      <link>https://27am.github.io/post/2019-01-14-how-to-read-a-book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2019-01-14-how-to-read-a-book/</guid>
+      <guid>https://27am.github.io/post/2019-01-14-how-to-read-a-book/</guid>
       <description>&lt;p&gt;I read a lot because I love it.
 Here there are some points&lt;/p&gt;
 &lt;ol&gt;
@@ -276,9 +276,9 @@ Moreover every person is the result of the social and historical context she has
     
     <item>
       <title>Hyperledger</title>
-      <link>/post/2019-03-23-hyperledger/</link>
+      <link>https://27am.github.io/post/2019-03-23-hyperledger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2019-03-23-hyperledger/</guid>
+      <guid>https://27am.github.io/post/2019-03-23-hyperledger/</guid>
       <description>&lt;p&gt;Hyperledger is an umbrella framework that encompasses a multitude of protocols for Distributed Ledger Technologies (DLTs).&lt;br&gt;
 &lt;br&gt;
 It is aimed to satisfy as many industry use-cases as possible, thus avoiding the specialization on a single one as Corda did with finance. To achieve the proposed flexibility, it is structured in different projects and modules that can be selected depending on the needs. One project example is Hyperledger Fabric which is built as plug and play components such as storage type, consensus protocols etc.&lt;br&gt;
@@ -303,9 +303,9 @@ This approach is called execute-order-validate and is a main differentiator of H
     
     <item>
       <title>Iota</title>
-      <link>/post/2019-07-22-iota/</link>
+      <link>https://27am.github.io/post/2019-07-22-iota/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2019-07-22-iota/</guid>
+      <guid>https://27am.github.io/post/2019-07-22-iota/</guid>
       <description>&lt;p&gt;Central concern and limitation about blockchain is the scalability factor: there is a cap to the maximum number of transactions per second (7 tx/s in case of Bitcoin) and tinkering parameters like block size or generation frequency is only a naïve approach that does not solve the real problem.&lt;br&gt;
 Doing like that indeed has repercussion to the level of security of the system because blocks take longer to propagate, causing more forks and less computation becomes useful in the sense that secures the main chain.&lt;br&gt;&lt;br&gt;
 &lt;br&gt;
@@ -322,9 +322,9 @@ I believe Iota’s solution to be a very interesting one and underlying graph pr
     
     <item>
       <title>Mining in Bitcoin</title>
-      <link>/post/2019-02-05-mining-in-bitcoin/</link>
+      <link>https://27am.github.io/post/2019-02-05-mining-in-bitcoin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2019-02-05-mining-in-bitcoin/</guid>
+      <guid>https://27am.github.io/post/2019-02-05-mining-in-bitcoin/</guid>
       <description>&lt;p&gt;The term “mining” evokes the image of somebody looking for something valuable, pretty much as it has been for the gold rush in the 19th century.
 &lt;br&gt;
 In Bitcoin, mining is not performed by digging a hole with a shovel but instead by computing cryptographic hash functions as quickly as possible in order to find our gold: the solution to a crypto puzzle. The output of a hash function is called digest, and for us to be valid it must belong to a limited set of solution whose value has to be lower than an adjustable threshold, i.e. it should, at least in the case of Bitcoin, begin with a certain number of leading zeros.
@@ -352,9 +352,9 @@ This is linked to the concept of Nash equilibrium, where each stakeholder has th
     
     <item>
       <title>pyplot</title>
-      <link>/post/2018-07-16-pyplot/</link>
+      <link>https://27am.github.io/post/2018-07-16-pyplot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2018-07-16-pyplot/</guid>
+      <guid>https://27am.github.io/post/2018-07-16-pyplot/</guid>
       <description>&lt;p&gt;matplotlib.pyplot is a library to show diagrams&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;
 plot.figure()
@@ -371,9 +371,9 @@ plot.legend(loc=2)
     
     <item>
       <title>Python logging</title>
-      <link>/post/2018-08-09-python-logging/</link>
+      <link>https://27am.github.io/post/2018-08-09-python-logging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2018-08-09-python-logging/</guid>
+      <guid>https://27am.github.io/post/2018-08-09-python-logging/</guid>
       <description>&lt;p&gt;To act as a reference for every program&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;import logging
 
@@ -405,9 +405,9 @@ logger.debug(&amp;quot;something worth of logging&amp;quot;)
     
     <item>
       <title>Scaling Blockchain</title>
-      <link>/post/2019-07-22-scaling-blockchain/</link>
+      <link>https://27am.github.io/post/2019-07-22-scaling-blockchain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2019-07-22-scaling-blockchain/</guid>
+      <guid>https://27am.github.io/post/2019-07-22-scaling-blockchain/</guid>
       <description>&lt;p&gt;One of the most limiting property about Blockchain is the number of transactions per seconds that can be processed, often referred as the scalability problem of DLTs. The most obvious modification that comes to mind like increasing block size and block proposal frequency solves only partially the issue, and at the expense of security and efficiency, because of the increased branching rate.&lt;br&gt;
 &lt;br&gt;
 Different investigated solutions explore the use of different kind of data structures. Instead of a one-dimensional, linear blockchain one could imagine applying a Directed Acyclic Graph. In this case the proposed block would reference numerous previous blocks, with the main caveat that consensus delay might be long, in principle even infinite. Iota’s tangle is one of the proposals in this direction.&lt;br&gt;
@@ -423,9 +423,9 @@ Finally, the Lightning Network is an overlay platform that allows for quick tran
     
     <item>
       <title>Smart Contracts</title>
-      <link>/post/2019-07-22-smart-contracts/</link>
+      <link>https://27am.github.io/post/2019-07-22-smart-contracts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2019-07-22-smart-contracts/</guid>
+      <guid>https://27am.github.io/post/2019-07-22-smart-contracts/</guid>
       <description>&lt;p&gt;A Smart contract is a computer program executed in a distributed fashion, more precisely by peers participating in the blockchain. The same computation is thus executed by a group of nodes that run post-facto consensus protocols to agree on the current state of the blockchain. The decentralization provides an increased fault tolerance, availability and assurance of execution. Indeed, no authority is in charge and able to arbitrarily prevent a smart contract to finalize the execution, provided that enough resources (e.g. gas) have been allocated for its completion.&lt;br&gt;
 &lt;br&gt;
 Although powerful, smart contracts are not suited for every use case, at least to a first degree of approximation. Most notably, external data feeds, which would allow the possibility of envisioning very cool decentralized applications, introduce tradeoffs in the system. To give an example, if a smart contract requires to access a weather forecast, it can be done basically in two ways: either each miner accesses the data by its own, performing independent requests that might fetch different forecasts (perhaps simply because it has been updated), or every miner relies on a single source of truth, sometimes referred as “oracle”. It is easy to notice that we are compromising between centralization/decentralization advantages and disadvantages.&lt;br&gt;
@@ -438,14 +438,14 @@ Ekiden is a proposal to improve privacy and performance of current smart contrac
     
     <item>
       <title>The benefit of programming</title>
-      <link>/post/2018-08-21-the-benefits-of-programming/</link>
+      <link>https://27am.github.io/post/2018-08-21-the-benefits-of-programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2018-08-21-the-benefits-of-programming/</guid>
+      <guid>https://27am.github.io/post/2018-08-21-the-benefits-of-programming/</guid>
       <description>&lt;p&gt;This is a small story about having a &amp;ldquo;programming hat&amp;rdquo; in your closet ready to be worn.&lt;/p&gt;
 &lt;p&gt;I like math and I have great respect for every profession that involves it. Therefore I continuously try to keep me in
 exercise solving problems and recently I have found out about a beautiful website called &lt;a href=&#34;https://brilliant.org&#34;&gt;&lt;em&gt;Brilliant&lt;/em&gt;&lt;/a&gt;. It has a very well design that makes you wanting to spend hours there
 and proposes loads of exercises.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/imgs/brilliant01.png&#34; alt=&#34;Found the Radius&#34;&gt;{:height=&amp;quot;50%&amp;rdquo; width=&amp;quot;50%&amp;quot;}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://27am.github.io/imgs/brilliant01.png&#34; alt=&#34;Found the Radius&#34;&gt;{:height=&amp;quot;50%&amp;rdquo; width=&amp;quot;50%&amp;quot;}&lt;/p&gt;
 &lt;p&gt;I stumbled upon this particular exercises but I didn&#39;t want to give up, I felt it was totally at my reach
 but I couldn&#39;t find a closed solution so I decided to write a program to solve it (with my favorite programming language which, by the way, is python).&lt;/p&gt;
 &lt;p&gt;As soon as I started to formalize the problem and to develop equations that would constrain the solution I could see very clearly the calculation that would have brought me to the numerical solution.&lt;/p&gt;
@@ -455,9 +455,9 @@ but I couldn&#39;t find a closed solution so I decided to write a program to sol
     
     <item>
       <title>Writing Papers</title>
-      <link>/post/2019-02-10-writing-papers/</link>
+      <link>https://27am.github.io/post/2019-02-10-writing-papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/2019-02-10-writing-papers/</guid>
+      <guid>https://27am.github.io/post/2019-02-10-writing-papers/</guid>
       <description>&lt;p&gt;As mentioned in a previous post, the best way to improve writing papers is doing it, avoing the writer&#39;s block (which actually doesn&#39;t exist).&lt;/p&gt;
 &lt;p&gt;Good Papers follow a certain structure, and an experienced reviewr con spot in a few seconds, with the blink of an eye which is good and which is bad (read Malcom Gladwell&#39;s Blink).&lt;/p&gt;
 </description>
