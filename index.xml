@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Merlina</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Merlina</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Andrea Merlina</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Zerocash</title>
+      <link>/post/2019-07-22-zerocash/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-07-22-zerocash/</guid>
+      <description>&lt;p&gt;Zerocash is a decentralized cryptocurrency platform that aims at improving privacy of transaction through advanced cryptographic functions. It is designed to extend already existing coins, sometimes referred as “basecoin”, with two new types of transaction:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mint transaction: is the action of transforming basecoins to an equal amount of zerocoins&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pour transaction: is the way of executing payments. It consumes zerocoins and outputs either zerocoins or basecoins, indeed it is used to convert back the currency. This action reveals the serial number of the coin but involved addresses and amounts remain anonymous.
+&lt;br&gt;
+Indeed, although pseudonymized, blockchains are usually public and decentralized. Unavoidable consequence is that a curious/interested user can infer information about other participant’s habits.&lt;br&gt;
+Few companies have spotted market value in this and started building their core business around blockchain’s analysis, for the happiness of tax authorities which are now identifying users asking them to pay.&lt;br&gt;
+&lt;br&gt;
+On the other hand, Zerocash implements Zero Knowledge Proofs to verify transactions. Those kinds of proof reveal nothing beyond the validity of the assertion being proved, and thus provide a stronger guarantee of privacy and anonymity.&lt;br&gt;
+&lt;br&gt;
+Properties of ZKP to be satisfied are:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Completeness: honest provers will always be able to convince honest verifiers about the assertion validity&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Soundness: probability of cheating provers to fool verifiers is very low&lt;br&gt;
+&lt;br&gt;
+SNARK stands for Succinct Non-interactive Arguments of Knowledge and is a specific type of Zero Knowledge Proof that is used in Zerocash because is shorter and more efficient to verify, allowing the system to be feasible in practice. Transactions are indeed less than 1kB and take less than 6ms to verify.&lt;br&gt;
+&lt;br&gt;
+Downside of Zerocash is the necessity to bootstrap the system generating SNARK parameters that have to be destroyed right afterward, otherwise it would be possible to generate valid zerocoins going undetected. They are being regarded as “toxic waste”. A complicated procedure has been employed to guarantee that, although, of course skeptical will be never convinced.&lt;br&gt;
+&lt;br&gt;
+Moreover, since the amount of zerocoins is anonymous by construction it is impossible to audit the correct functioning of the system even for unintentional bugs like the one that affected Bitcoin and provoked the generation of 184 billion of Bitcoin out of thin air.&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acronyms</title>
+      <link>/acronyms/acronyms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/acronyms/acronyms/</guid>
+      <description>&lt;p&gt;In many resources IT related you will encounter acronyms whose meaning might be obscure. This is a list of some of them that I use as self reference. I hope it can prove helpful for you too.&lt;/p&gt;
+&lt;h3 id=&#34;a&#34;&gt;A&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AAA&lt;/code&gt;  Authentication, Authorization and Accounting&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AAC&lt;/code&gt;  Adaptive Access Control&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AD&lt;/code&gt;   Active Directory&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ADFS&lt;/code&gt; Active Directory Federation Services&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AEP&lt;/code&gt;  Advanced Endpoint Protection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AMD&lt;/code&gt;  Advanced Malware Detection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AMP&lt;/code&gt;  Advanced Malware Protection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;APM&lt;/code&gt;  Application Portfolio Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ARPU&lt;/code&gt; Average Revenue Per User&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;APT&lt;/code&gt;  Advanced Persistent Threat&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ATP&lt;/code&gt;  Advanced Threat Protection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AUP&lt;/code&gt;  Acceptable Use Policy&lt;/p&gt;
+&lt;h3 id=&#34;b&#34;&gt;B&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;BIA&lt;/code&gt; Business Impact Analysis&lt;/p&gt;
+&lt;h3 id=&#34;c&#34;&gt;C&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;CIS&lt;/code&gt; Center for Internet Security&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;COOP&lt;/code&gt; Continuity of Operation&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;CMP&lt;/code&gt; Certificate Management Protocol&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;CNF&lt;/code&gt; Carrier Neutral Facility&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;CSP&lt;/code&gt; Cloud Service Provider&lt;/p&gt;
+&lt;h3 id=&#34;d&#34;&gt;D&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;DC&lt;/code&gt; Domain Controller&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;DCS&lt;/code&gt; Distributed Control System&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;DRM&lt;/code&gt; Digital Right Management&lt;/p&gt;
+&lt;h3 id=&#34;e&#34;&gt;E&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;EAL&lt;/code&gt; Evaluation Assurance Level&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EAPOL&lt;/code&gt; Extensible Authentication Protocol over Lan&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EDRM&lt;/code&gt; Enterprise Digital Right Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EH&lt;/code&gt; Ethical Hacking&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EMM&lt;/code&gt; Enterprise Mobility Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EPP&lt;/code&gt; End-Point Protection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ERP&lt;/code&gt; Enterprise Resource Planning&lt;/p&gt;
+&lt;h3 id=&#34;f&#34;&gt;F&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;FPE&lt;/code&gt; Field Preserving Encryption&lt;/p&gt;
+&lt;h3 id=&#34;g&#34;&gt;G&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;GRC&lt;/code&gt; Governance, Risk &amp;amp; Compliance&lt;/p&gt;
+&lt;h3 id=&#34;h&#34;&gt;H&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;HLD&lt;/code&gt; High Level Design&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;HSM&lt;/code&gt; Hardware Storage Modules&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;HSM&lt;/code&gt; Hardware Security Modules&lt;/p&gt;
+&lt;h3 id=&#34;i&#34;&gt;I&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;IAM&lt;/code&gt; Identity and Access Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ICAP&lt;/code&gt; Internet Content Adaptation Protocol&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ICFR&lt;/code&gt; Internal Control Over Financial Reporting&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IDaaS&lt;/code&gt; Identity as a Service&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IEC&lt;/code&gt; International Electrotechnical Commission&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;I&amp;amp;TS&lt;/code&gt; Information &amp;amp; Technology Services&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IoT&lt;/code&gt; Internet of Things&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IRM&lt;/code&gt; Information Right Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IT&lt;/code&gt; Information Technology&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ISMS&lt;/code&gt; Information Security Management System&lt;/p&gt;
+&lt;h3 id=&#34;j&#34;&gt;J&lt;/h3&gt;
+&lt;h3 id=&#34;k&#34;&gt;K&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;KMIP&lt;/code&gt; Key Management Interoperability Protocol&lt;/p&gt;
+&lt;h3 id=&#34;l&#34;&gt;L&lt;/h3&gt;
+&lt;h3 id=&#34;m&#34;&gt;M&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;MAB&lt;/code&gt; MAC Authentication Bypass&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;MAP&lt;/code&gt; Management Assessment Process&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;MIB&lt;/code&gt; Management Information Base&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;MFA&lt;/code&gt; Multi-Factor Authentication&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;MVNO&lt;/code&gt; Mobile Virtual Network Operator&lt;/p&gt;
+&lt;h3 id=&#34;n&#34;&gt;N&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;NAC&lt;/code&gt; Network Access Control&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;NSM&lt;/code&gt; Network and System Management&lt;/p&gt;
+&lt;h3 id=&#34;o&#34;&gt;O&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;OCSP&lt;/code&gt; Online Certificate Status Protocol&lt;/p&gt;
+&lt;h3 id=&#34;p&#34;&gt;P&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;PAC&lt;/code&gt; Proxy Auto-Config&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PAM&lt;/code&gt; Privileged Access Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PDU&lt;/code&gt; Protocol Data Unit&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PII&lt;/code&gt; Personal Identifiable Information&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PLC&lt;/code&gt; Programmable Logic Controller&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PLC&lt;/code&gt; Power Line Communication&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PT&lt;/code&gt; Penetration Testing&lt;/p&gt;
+&lt;h3 id=&#34;q&#34;&gt;Q&lt;/h3&gt;
+&lt;h3 id=&#34;r&#34;&gt;R&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;RFP&lt;/code&gt; Request For Proposal&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;RMS&lt;/code&gt; Right Management Solution&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ROI&lt;/code&gt; Return On Investement&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;RTU&lt;/code&gt; Remote Terminal Unit&lt;/p&gt;
+&lt;h3 id=&#34;s&#34;&gt;S&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;SAML&lt;/code&gt; Security Assertion Markup Language&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SCEP&lt;/code&gt; Simple Certificate Enrollment Protocol&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SIEM&lt;/code&gt; Security Information and Event Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SMM&lt;/code&gt; System Management Mode&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SLA&lt;/code&gt; Service Level Agreement&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SOAR&lt;/code&gt; Security Orchestration, Automation and Response&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SRM&lt;/code&gt; Security and Risk Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;STS&lt;/code&gt; Security Token Service&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SSO&lt;/code&gt; Single Sign On&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SWG&lt;/code&gt; Secure Web Gateway&lt;/p&gt;
+&lt;h3 id=&#34;t&#34;&gt;T&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;TCB&lt;/code&gt; Trusted Computing Base&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;TCO&lt;/code&gt; Total Cost of Ownership&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;TFTP&lt;/code&gt; Trivial File Transfer Protocol&lt;/p&gt;
+&lt;h3 id=&#34;u&#34;&gt;U&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;UEBA&lt;/code&gt; User and Entity Behavior Analysis&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;URI&lt;/code&gt; Uniform Resource Identifier&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;URL&lt;/code&gt; Uniform Resource Locator&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;UTC&lt;/code&gt; Coordinated Universal Time&lt;/p&gt;
+&lt;h3 id=&#34;v&#34;&gt;V&lt;/h3&gt;
+&lt;h3 id=&#34;w&#34;&gt;W&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;WAF&lt;/code&gt; Web Application Firewall&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;WBE&lt;/code&gt; Work Breakdown Element&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;WBS&lt;/code&gt; Work Breakdown Structure&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;WSS&lt;/code&gt; Web Services Security&lt;/p&gt;
+&lt;h3 id=&#34;y&#34;&gt;Y&lt;/h3&gt;
+&lt;h3 id=&#34;z&#34;&gt;Z&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Blockchain Storage</title>
+      <link>/post/2019-07-22-advanced-blockchain-storage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2019-07-22-advanced-blockchain-storage/</guid>
+      <description>&lt;p&gt;InterPlanetary File System (IPFS) is a peer to peer distributed file system. It provides storage models that are content addressed and take advantage of cryptographic data structures as Distributed Hash Tables and Merkle Directed Acyclic Graphs (MDAGs) with the declared purpose of constituting the filesystem of all the connected computers.&lt;br&gt;
+&lt;br&gt;
+Filecoin is a cryptocurrency that lays on top of IPFS as incentive layer to host files in exchange for valuable tokens. It builds a marketplace for bidding between providers and consumers.&lt;br&gt;
+There are two kind of nodes in the system: Storage nodes and Retrieval nodes, since the philosophy of the solution is to separate the roles.&lt;br&gt;
+When a client wants to upload a file, it is encrypted and fragmented and the pieces are sent to different Storage nodes. In this phase the level of redundancy is selected, and data chunks are replicated accordingly. Moreover, the location of those nodes can be extracted only knowing the private key of the file, as an additional safety and privacy precaution. This association is kept in the so-called allocation table and is stored on the Filecoin Blockchain.&lt;br&gt;
+&lt;br&gt;
+StorJ and Sia are similar to, and competitor of Filecoin. They are both decentralized cloud storage products although the first takes advantage of the Ethereum blockchain while the second builds its own. &lt;br&gt;
+&lt;br&gt;
+Finally, BigChainDB is a data storage solution that stands in a common ground between databases and blockchain. It inherits several good properties from the two worlds: decentralization, high transaction throughput, small delay, quick query and response time. Moreover, it has recently been extended to be Byzantine Fault Tolerant for up to one third of nodes.&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alternative consensus</title>
+      <link>/post/2019-02-27-alternative-consensus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2019-02-27-alternative-consensus/</guid>
+      <description>&lt;p&gt;The success of Bitcoin and the so called Nakamoto consensus that scales with thousands of mining nodes caused a renewed interest in consensus protocols.&lt;br&gt;
+&lt;br&gt;
+Some have existed and used for many years, each with its system model, strengths and tradeoffs. The most notable examples are Paxos and &lt;a href=&#34;http://pmg.csail.mit.edu/papers/osdi99.pdf&#34;&gt;PBFT&lt;/a&gt;.&lt;br&gt;
+&lt;br&gt;
+From 2009 onwards, many variants have born, looking for a sweet spot in the wide variety of combinations that separate the opposite extremes of BFT and PoW.&lt;br&gt;
+&lt;br&gt;
+A first and general distinction can be done about the Identity and access management (IAM) of the participant nodes of the consensus protocols. It could either be decentralized and permissionless like Bitcoin is, or permissioned and in some way managed by an entity or a federation of such.&lt;br&gt;
+&lt;br&gt;
+In the latter group some prominent examples are Hyperledger, Stellar and Ripple. Those are enterprise/financial industry targeted and aim at filling the gap between companies and a disruptive technology like blockchains and Distributed Ledged Technologies (DLT) in general.
+Hyperledger for example is a modular platform that allows for multiple implementations of its components. It features PBFT in Fabric or Proof of Elapsed Time (PoET) in Sawtooth Lake, just to give an example.&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Standing at the other side of the fence are Algorand and Bitcoin-NG, along with others.
+Bitcoin-NG entitles itself as the evolution of the classic Bitcoin blockchain that we started to know back in 2009.&lt;br&gt;
+&lt;br&gt;
+By introducing two types of blocks, one that contains proof of work for leader selection, and the second type collecting and propagating transactions, it reduces chain forks while allowing for faster block rate. It appears to be that the advantages surpass the negative aspects, making Bitcoin-NG an interesting candidate for future solutions.&lt;br&gt;
+&lt;br&gt;
+Algorand’s approach on the other hand is Proof of Stake based, with a selection of a small committee that should vote for the next block to be appended on the blockchain. I find it to be an interesting solution for scaling Byzantine agreement to many users.&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;[1] &lt;i&gt;Blockchain Consensus Protocols in the Wild - Christian Cachin, Marko Vukolic&lt;/i&gt;
+&lt;br&gt;&lt;br&gt;
+[2] &lt;i&gt;Bitcoin-NG: A Scalable Blockchain Protocol - Ittay Eyal, Adem Efe Gencer, Emin Gün Sirer, and Robbert van Renesse&lt;/i&gt;
+&lt;br&gt;&lt;br&gt;
+[3] &lt;i&gt;Algorand: Scaling Byzantine Agreements for Cryptocurrencies - Yossi Gilad, Rotem Hemo, Silvio Micali, Georgios Vlachos, Nickolai Zeldovich&lt;/i&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Applications for blockchain</title>
+      <link>/post/2019-06-27-application-blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2019-06-27-application-blockchain/</guid>
+      <description>&lt;p&gt;Blockchain has revolutionized the financial industry, providing a technical way to overcome previously unsolved problems. The same technology has been investigated for applications in different areas, most notably energy, supply chain, healthcare and internet of things. &lt;br&gt;
+&lt;br&gt;
+Internet of Things (IoT) in particular, presents traits that at first sight might be incompatible with the hypothesis required by the classical Bitcoin’s blockchain. IoT devices are computationally bounded and might be unavailable/offline for an arbitrary amount of time. A solution that has been proposed is to cluster group of devices and delegate demanding tasks to Head nodes that provide characteristics more suited to participate in the consensus of a blockchain. This has been done for example in [2] where, as an optimization, the authors introduce a reputation system to prevent a node having to validate all the transactions. Basically, what happens is that nodes responsible to execute the consensus algorithm, keep and update a trust table with information about the nodes that proposed both valid and invalid blocks. The principle behind the table is that if the node believes another peer to be trustworthy, it can skip some validation work. Another feature presented is the Dynamically Adjusted Throughput algorithm, put in place to facilitate scalability in presence of big numbers of participating nodes. Moreover, the consensus algorithm is a breed similar to Proof of Elapsed time without the deployment of the Trusted Execution Environment (TEE). Security properties hold because head nodes keep a list about the allowed participants, making the system a permissioned blockchain. &lt;br&gt;
+&lt;br&gt;
+Authors of [3] investigate improvements in the energy trading system of smart grids. Finding a way to exchange dynamically shares of electricity is the core idea behind a healthy green-energy ecosystem based on the concept of prosumer. Problematic are privacy aspects of the participants, as energy production patterns might leak personal information. In that case blockchain is used because of its anonymization properties, coupled with mixing services and the like.&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;[1] &lt;i&gt;K. Christidis and M. Devetsikiotis, &amp;ldquo;Blockchains and Smart Contracts for the Internet of Things,&amp;rdquo; in IEEE Access, vol. 4, pp. 2292-2303, 2016.&lt;/i&gt;&lt;br&gt;
+&lt;br&gt;
+[2] &lt;i&gt;Dorri, Ali, et al. &amp;ldquo;LSB: A lightweight scalable blockchain for iot security and privacy.&amp;rdquo; arXiv preprint arXiv:1712.02969 (2017).&lt;/i&gt;&lt;br&gt;
+&lt;br&gt;
+[3] &lt;i&gt;Aron Laszka, Abhishek Dubey, Michael Walker, Douglas Schmidt, &amp;ldquo;Providing Privacy, Safety, and Security in IoT-Based Transactive Energy Systems using Distributed Ledgers&amp;rdquo;.&lt;/i&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin in research</title>
+      <link>/post/2019-02-12-bitcoin-in-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2019-02-12-bitcoin-in-research/</guid>
+      <description>&lt;p&gt;Bitcoin has opened a branch on new research aspects, while establishing itself as a prominent example of a system whose practice precedes the theory. Nakamoto himself mentioned how he implemented the code first and worked on the whitepaper afterwards.&lt;br&gt;
+&lt;br&gt;
+The achievement of devising a decentralized cryptocurrency after 25 years of attempts is, as it sounds, impressive and is the result of both previous contributions and novelty elements.
+The system stands as an outlier in the traditional computer science research methodology, first but not last for the anonymity of the creator.&lt;br&gt;
+&lt;br&gt;
+Some aspects of Bitcoin can be formally analyzed up to a certain point, with some intractable elements of notable difficulty. In my opinion the beauty, and the value, of the system is related to the way it merges socioeconomical aspects (incentives for example) along with technical/technological one.&lt;br&gt;
+&lt;br&gt;
+The contribution of Bitcoin can be measured on multiple levels. To give an example, one level is key management. Users have become much more accustomed to managing private key, hardware wallets, while on the other side they have become much more user friendly.
+To briefly mention the kind of existing wallets, they can be grouped in three macro areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Local wallet. The private key is stored on a local file.&lt;/li&gt;
+&lt;li&gt;Remote wallet. The private key is held by somebody else that you trust.&lt;/li&gt;
+&lt;li&gt;Offline wallet. Usually regarded as the most secure, the private key is outside the grid, let it be a piece of paper or your brain.&lt;br&gt;
+&lt;br&gt;
+Bitcoin has been devised about 10 years ago and due to its popularity, the volume of transactions has risen in a way that, maybe, hasn’t been foreseen during its creation. What we can say without much doubt is that the transaction throughput of Bitcoin can’t compete with other payment system such as Visa or Mastercard. If Bitcoin, or its successor, wants to impose itself as the main payment method, this has to be addressed.
+The scalability problems can be conjugated in different planes, or aspects, that we list here briefly.&lt;br&gt;
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;Network plane&lt;/li&gt;
+&lt;li&gt;Consensus plane&lt;/li&gt;
+&lt;li&gt;Storage plane&lt;/li&gt;
+&lt;li&gt;View plane&lt;/li&gt;
+&lt;li&gt;Side plane&lt;br&gt;
+&lt;br&gt;
+The role of the research community can be to understand deeply and analyze key factors and tradeoffs of the design choice in order to steer improvements based on the use case at hand.&lt;br&gt;
+&lt;br&gt;
+In conclusion, Bitcoin came out as a solution for a long sought-after problem. It’s worth of research because it might hide some ingredients to tackle other problem’s solutions not yet solved.&lt;br&gt;
+&lt;br&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;[1] &lt;i&gt;Bitcoin and Beyond: A Technical Survey on Decentralized Digital Currencies - Florian Tschorsch, Björn Scheuerman&lt;/i&gt;&lt;br&gt;
+&lt;br&gt;
+[2] &lt;i&gt;SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies - Joseph Bonneau, Andrew Miller, Jeremy Clark, Arvind Narayanan, Joshua A. Kroll, Edward W. Felten&lt;/i&gt;&lt;br&gt;
+&lt;br&gt;
+[3] &lt;i&gt;On Scaling Decentralized Blockchains (A Position Paper) - Kyle Croman, Christian Decker, Ittay Eyal, Adem Efe Gencer, Ari Juels, Ahmed Kosba, Andrew Miller, Prateek Saxena, Elaine Shi, Emin Gun Sirer, Dawn Song, and Roger Wattenhofer&lt;/i&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Corda</title>
+      <link>/post/2019-03-22-corda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2019-03-22-corda/</guid>
+      <description>&lt;p&gt;Corda is a Distributed Ledger Technology (DLT) developed to target financial industries use cases and for this reason the requirements are slightly different than other blockchain platforms.&lt;br&gt;
+&lt;br&gt;
+The main purpose is to be able to execute financial smart contracts that hold legal value and can be used in courts or in case of disputes. In order to do so, Corda developers decided to adopt a Turing-complete approach pretty similar to Ethereum.&lt;br&gt;
+&lt;br&gt;
+Each participant has to be authorized to participate, as the practice of consortium blockchains
+indicates. A peculiarity of Corda is that every transaction is visible only to the financial institutions it affects, and this has repercussions on the architecture as a whole. &lt;br&gt;
+&lt;br&gt;
+To synthesize the salient differences to the mainstream blockchains:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Scalability&lt;/b&gt;. In general, the restricted visibility of transactions is good to increase the throughput. An inevitable consequence is that Corda’s blockchain forms a Directed Acyclic Graph as transactions are merged and split. Since they still have to be processed and validated to guarantee the correctness there could be cases when the validator has to process the whole blockchain up to the genesis block. &lt;br&gt;
+We can conclude that scalability depends very much by the structure of the DAG. &lt;br&gt;
+&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Privacy&lt;/b&gt;. Restricting the scope of visibility helps to strengthen privacy but it should be
+noticed that the receiver of an asset becomes aware of the previous owners for validation
+purposes, undermining the assumption that a financial deal will remain private and known
+only to the participants. Corda addresses this issue with Bitcoin’s style mixers.&lt;br&gt;
+&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Interoperability&lt;/b&gt;. This is probably the strongest point in favor of Corda, indeed the choice of DAGs allows different financial institutions to merge their own blockchains without many problems, although this calls back the issue briefly discussed in the Scalability bullet point.&lt;br&gt;
+&lt;br&gt;
+The main complain about Corda is related to the used technique of avoiding double spending, the
+so called “uniqueness” property.&lt;br&gt;
+To solve it, indeed, Corda introduces the concept of Notary, a trusted third party. There is one and only one for each transaction and when more transactions have to be merged, a single Notary has to be elected, forcing all the participants to trust him. &lt;br&gt;
+&lt;br&gt;
+It is obvious that the introduction for trust in a trustless environment by default is something that raised a few eyebrows.&lt;br&gt;
+&lt;br&gt;
+All considered, Corda is an interesting solution for a specific portion of users, and it might give a few useful ideas for other use cases.&lt;br&gt;
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;[1] &lt;i&gt;Corda: An Introduction - Richard Gendal Brown, James Carlyle, Ian Grigg, Mike Hearn&lt;/i&gt;&lt;br&gt;
+&lt;br&gt;
+[2] &lt;i&gt;&lt;a href=&#34;https://docs.corda.net/&#34;&gt;Corda Documentation&lt;/a&gt;&lt;/i&gt;&lt;br&gt;
+&lt;br&gt;
+[3] &lt;i&gt;&lt;a href=&#34;https://www.multichain.com/blog/2018/05/r3-corda-deep-dive-and-technical-review/&#34;&gt;Corda: deep dive and technical review&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethereum</title>
+      <link>/post/2019-03-10-ethereum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2019-03-10-ethereum/</guid>
+      <description>&lt;p&gt;Ethereum was born in the universe of cryptocurrencies but aims at becoming more than that. Its philosophy has been to extend the potential of the scripting language, making it Turing-complete and, as a consequence, a general-purpose platform of computation.
+That means that in principle Ethereum could be used to implement any altcoin’s functionality.
+This approach opens a lot of interesting use cases but brings some problems along with it. How, for example, could we prevent a user to deplete all the resources through a never-ending execution?&lt;br&gt;
+&lt;br&gt;
+Ethereum’s approach has been to introduce a finite resource, called Gas, to make execution “pay-per-use”. Each instruction indeed costs Gas.&lt;br&gt;
+&lt;br&gt;
+Being general-purpose oriented it can be used to implement a plethora of different services, from auctions to games (kittens and chess to name a few), escrowed payments, etc.&lt;br&gt;
+&lt;br&gt;
+Smart contracts are code snippets that are hosted on the blockchain and executed by all the miners of the Ethereum blockchain. They are the means to execute distributed computations among entities that don’t trust each other.&lt;br&gt;
+&lt;br&gt;
+Ethereum has taken some aggressive decision about parameter settings with respect to Bitcoin: block frequency is one every 10-15 seconds instead of 10 minutes. One of the consequences is that the order of transactions per second is about 25 i.e. 3-4 times Bitcoin’s but still very far from Visa’s and Mastercard’s figures.&lt;br&gt;
+&lt;br&gt;
+Ethereum applies some advanced data structures called Patricia Merkle Tries. Those are used in regard to different aspects of the blockchain:&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;States&lt;/li&gt;
+&lt;li&gt;Transactions&lt;/li&gt;
+&lt;li&gt;Receipts&lt;/li&gt;
+&lt;li&gt;Storages
+&lt;br&gt;
+&lt;br&gt;
+The head of the first three Tries (from State to Receipts) is included in each mined block.
+Patricia Merkle Tries are constituted by four different kind of nodes:&lt;/li&gt;
+&lt;li&gt;Null nodes&lt;/li&gt;
+&lt;li&gt;Branch nodes&lt;/li&gt;
+&lt;li&gt;Extension nodes&lt;/li&gt;
+&lt;li&gt;Leaf nodes&lt;br&gt;
+&lt;br&gt;
+Each with different fields and purposes.
+&lt;br&gt;
+Behind Ethereum there is a highly dynamic community and it is undergoing a lot of changes. There have been different releases and hard forks. It started as a Proof of Work (based on Ethash, a derivation of Keccak) but is transitioning to a Proof of Stake, and it also utilizes GHOST as a technique to select the main chain: each block has to specify a parent and 0 or more “uncles” as they are called.&lt;br&gt;
+&lt;br&gt;
+The aim of Ethereum is ambitious, and there is a lot of curiosity about how it will evolve in the future.&lt;br&gt;
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;[1] &lt;i&gt;&lt;a href=&#34;https://github.com/ethereum/wiki/wiki/White-Paper%3C/i%3E%3Cbr%3E%3Cbr%3E&#34;&gt;https://github.com/ethereum/wiki/wiki/White-Paper&amp;lt;/i&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to read a book</title>
+      <link>/post/2019-01-14-how-to-read-a-book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2019-01-14-how-to-read-a-book/</guid>
+      <description>&lt;p&gt;I read a lot because I love it.
+Here there are some points&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Gather contextual information about the book&lt;/li&gt;
+&lt;li&gt;Read it taking notes on the margins&lt;/li&gt;
+&lt;li&gt;After every paragraph pause and reflect on what you have been reading.&lt;/li&gt;
+&lt;li&gt;When you finish the book wait one week, then review its structure, the main concepts and your notes.&lt;/li&gt;
+&lt;li&gt;Find your personal way to index the knowledge you just aquired.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Okay so this is the shortlist of the steps I try to follow. Sometimes I find myself skipping some of those points although as a rule I try to stick to them. Let&#39;s have a look a bit more in detail.&lt;/p&gt;
+&lt;h3 id=&#34;gather-contextual-information-about-the-book&#34;&gt;Gather contextual information about the book&lt;/h3&gt;
+&lt;p&gt;Every book has a story behind that is not told in its pages. The author is very likely to have spent 10 times more time writing them than you reading.
+Moreover every person is the result of the social and historical context she has been living in. To correctly decipher the main contribution we should be able to grasp this.&lt;/p&gt;
+&lt;h1 id=&#34;read-it-taking-notes-on-the-margins&#34;&gt;Read it taking notes on the margins&lt;/h1&gt;
+&lt;p&gt;Those are called marginalia and I haven&#39;t been using them since the beginning. I actually though to be an ominous crime to ruin let alone write on any book.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hyperledger</title>
+      <link>/post/2019-03-23-hyperledger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2019-03-23-hyperledger/</guid>
+      <description>&lt;p&gt;Hyperledger is an umbrella framework that encompasses a multitude of protocols for Distributed Ledger Technologies (DLTs).&lt;br&gt;
+&lt;br&gt;
+It is aimed to satisfy as many industry use-cases as possible, thus avoiding the specialization on a single one as Corda did with finance. To achieve the proposed flexibility, it is structured in different projects and modules that can be selected depending on the needs. One project example is Hyperledger Fabric which is built as plug and play components such as storage type, consensus protocols etc.&lt;br&gt;
+&lt;br&gt;
+Hyperledger is divided in four logical services:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identity services: they provide authentication and authorization for every component. Since most Hyperledger’s use cases are consortium blockchain, this is a fundamental building block&lt;/li&gt;
+&lt;li&gt;Policy services: they encode the rules for security guarantees in the blockchain&lt;/li&gt;
+&lt;li&gt;Blockchain service: is composed of three submodules
+** Peer to Peer
+o	Distributed Ledger
+o	Consensus Manager&lt;/li&gt;
+&lt;li&gt;Smart contract service: manages the decentralized programs that run on the nodes&lt;br&gt;
+&lt;br&gt;
+Nodes in Hyperledger’s network have different roles. Clients act on behalf of the users and send transactions to the network. The execution is “simulated” by Endorsing peers and sent back to clients who in turn ask Orderers to order them, to guarantee a global and agreed upon sequence. The final step is a validity check with respect to the encoded policies.&lt;br&gt;
+&lt;br&gt;
+This approach is called execute-order-validate and is a main differentiator of Hyperledger Fabric with respect to other blockchain that are based on the more traditional validate-execute paradigm. This choice is the result of the desire to boost the throughput in a real word environment, where many times the execution of non-deterministic programs leads to inconsistencies in the ledger and the consequent destruction of the security assumption.&lt;br&gt;
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Iota</title>
+      <link>/post/2019-07-22-iota/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2019-07-22-iota/</guid>
+      <description>&lt;p&gt;Central concern and limitation about blockchain is the scalability factor: there is a cap to the maximum number of transactions per second (7 tx/s in case of Bitcoin) and tinkering parameters like block size or generation frequency is only a naïve approach that does not solve the real problem.&lt;br&gt;
+Doing like that indeed has repercussion to the level of security of the system because blocks take longer to propagate, causing more forks and less computation becomes useful in the sense that secures the main chain.&lt;br&gt;&lt;br&gt;
+&lt;br&gt;
+Directed Acyclic Graphs (DAGs) have been introduced to address this issue. Blockchains that use DAGs don’t expand in a mono-dimensional way, but blocks can have “uncles” and “nephews”. The main important property to allow tractability is to avoid loops, in that sense it’s acyclic.&lt;br&gt;
+&lt;br&gt;
+Iota introduces its own DAG that is called “Tangle”. The rule for expanding the Tangle is that every new transaction has to confirm two previous ones, increasing their level of acceptance confidence. Not every transaction is equal but has a weight proportional to the amount of computation spent to “mine” it. Those weights drive the traversal algorithm of the Tangle that is probably Iota’s main innovation, basically providing a way to navigate through the chaos of concurrent transaction. Following the algorithm in not enforced but incentivized. Doing so and trusting other nodes to do the same permits the probabilistic steering of confirmations which in turn builds the graph of transactions. After enough confirmations, the transaction can be considered approved.&lt;br&gt;
+&lt;br&gt;
+A different design choice of Iota worth mentioning is to pre-mine the whole amount of available coins, literally taking away the mining reward.&lt;br&gt;
+&lt;br&gt;
+I believe Iota’s solution to be a very interesting one and underlying graph principles worth one being studied.&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mining in Bitcoin</title>
+      <link>/post/2019-02-05-mining-in-bitcoin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2019-02-05-mining-in-bitcoin/</guid>
+      <description>&lt;p&gt;The term “mining” evokes the image of somebody looking for something valuable, pretty much as it has been for the gold rush in the 19th century.
+&lt;br&gt;
+In Bitcoin, mining is not performed by digging a hole with a shovel but instead by computing cryptographic hash functions as quickly as possible in order to find our gold: the solution to a crypto puzzle. The output of a hash function is called digest, and for us to be valid it must belong to a limited set of solution whose value has to be lower than an adjustable threshold, i.e. it should, at least in the case of Bitcoin, begin with a certain number of leading zeros.
+The solution for this cryptographic puzzle is a scarce resource (exactly like diamonds) which makes it valuable.
+That’s the ingenious trick devised to give Bitcoin an economical value while remaining just a sequence of bits in somebody’s hard drive. It emulates in a digital environment the pile of gold that has been hardly and over time accumulated in a bank’s vault.&lt;br&gt;
+&lt;br&gt;
+That’s not the only possible type of Proof.  In general, in order to be a viable mining technique, it should satisfy some properties:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Be easy to verify, although moderately difficult to calculate&lt;/li&gt;
+&lt;li&gt;The effort to find a solution should be adjustable&lt;/li&gt;
+&lt;li&gt;The chance to find a solution should be proportional to the resources spent in mining, preventing one single miner to always win the race just because it’s the fastest. This property is called progress-free, memoryless or stateless.&lt;br&gt;
+&lt;br&gt;
+Using mining techniques limits consistently the impact of Sybil attacks while giving a way to reach a consensus through the simple rule of expanding the longest chain. Indeed, without mining, any malicious actor would be able to destroy the system by creating fake identities.
+It’s still possible to subvert the system by owning large part of it, namely 51%, but it would be highly costly and, since it would destroy the trust and the profitability of the system right afterwards, it’s considered totally irrational from an economic point of view.
+This is linked to the concept of Nash equilibrium, where each stakeholder has the interest of following the rules of the system.&lt;br&gt;
+&lt;br&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;[1] &lt;i&gt;Bitcoin and Cryptocurrency Technologies - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder &lt;/i&gt;&lt;br&gt;
+&lt;br&gt;
+[2] &lt;i&gt;Bitcoin and Beyond: A Technical Survey on Decentralized Digital Currencies - Florian Tschorsch, Björn Scheuerman&lt;/i&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>pyplot</title>
+      <link>/post/2018-07-16-pyplot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2018-07-16-pyplot/</guid>
+      <description>&lt;p&gt;matplotlib.pyplot is a library to show diagrams&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+plot.figure()
+plot.scatter(k, sum_cf, color=&#39;black&#39;, label=&#39;Sum of Cause Fractions&#39;)
+plot.scatter(k, data[:, 0],  color=&#39;b&#39;, label=&#39;Dis 1: cf = .6, var = .2&#39;)
+plot.scatter(k, data[:, 1],  color=&#39;r&#39;,  label=&#39;Dis 2: cf = .2, var = .1&#39;)
+plot.scatter(k, data[:, 2],  color=&#39;g&#39;, label=&#39;Dis 3: cf = .1, var = .01&#39;)
+plot.legend(loc=2)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;okay&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python logging</title>
+      <link>/post/2018-08-09-python-logging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2018-08-09-python-logging/</guid>
+      <description>&lt;p&gt;To act as a reference for every program&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;import logging
+
+&#39;&#39;&#39;
+- DEBUG (lowest)
+- INFO
+- WARNING
+- ERROR
+- CRITICAL (highest)
+&#39;&#39;&#39;
+
+# get the logger
+logger = logging.getLogger()
+
+# set parameters
+handler = logging.FileHandler(&amp;quot;file.log&amp;quot;)
+formatter = logging.Formatter(&#39;%(asctime)-8s %(levelname)-8s %(message)s&#39;)
+
+# add parameters
+handler.setFormatter(formatter)
+logger.addHandler(handler)
+logger.setLevel(logging.DEBUG)
+
+logger.debug(&amp;quot;something worth of logging&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;For a deeper dive, visit &lt;a href=&#34;https://docs.python.org/3/howto/logging.html#logging-basic-tutorial&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scaling Blockchain</title>
+      <link>/post/2019-07-22-scaling-blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2019-07-22-scaling-blockchain/</guid>
+      <description>&lt;p&gt;One of the most limiting property about Blockchain is the number of transactions per seconds that can be processed, often referred as the scalability problem of DLTs. The most obvious modification that comes to mind like increasing block size and block proposal frequency solves only partially the issue, and at the expense of security and efficiency, because of the increased branching rate.&lt;br&gt;
+&lt;br&gt;
+Different investigated solutions explore the use of different kind of data structures. Instead of a one-dimensional, linear blockchain one could imagine applying a Directed Acyclic Graph. In this case the proposed block would reference numerous previous blocks, with the main caveat that consensus delay might be long, in principle even infinite. Iota’s tangle is one of the proposals in this direction.&lt;br&gt;
+&lt;br&gt;
+Alternative approach is to create some sort of partition in the blockchain domain, usually referred as sharding. Limiting the domain has the advantage that nodes don’t need to be aware of the overall status of the network, but only have to receive and process a fraction of the blocks. Ethereum is experimenting in this direction.&lt;br&gt;
+&lt;br&gt;
+Let’s now introduce the concept of Pegged Sidechain. Basically, instead of creating an altcoin from scratch, pegged sidechain anchor their value and coin generation to a parent chain, such as Bitcoin. The major property is that, despite allowing bidirectional exchange of coins between the pegged sidechains, security is siloed, preventing a breach to damage the other chain.&lt;br&gt;
+&lt;br&gt;
+Finally, the Lightning Network is an overlay platform that allows for quick transactions. Transacting peers generate a multisignature wallet and deposit a certain amount of coin there. From now on they can send transactions as fast as the network allows without incurring in the consensus delay because the transfer is completely transparent and orthogonal to the blockchain. Just once in a while they broadcast the account status to secure it on the blockchain.&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smart Contracts</title>
+      <link>/post/2019-07-22-smart-contracts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2019-07-22-smart-contracts/</guid>
+      <description>&lt;p&gt;A Smart contract is a computer program executed in a distributed fashion, more precisely by peers participating in the blockchain. The same computation is thus executed by a group of nodes that run post-facto consensus protocols to agree on the current state of the blockchain. The decentralization provides an increased fault tolerance, availability and assurance of execution. Indeed, no authority is in charge and able to arbitrarily prevent a smart contract to finalize the execution, provided that enough resources (e.g. gas) have been allocated for its completion.&lt;br&gt;
+&lt;br&gt;
+Although powerful, smart contracts are not suited for every use case, at least to a first degree of approximation. Most notably, external data feeds, which would allow the possibility of envisioning very cool decentralized applications, introduce tradeoffs in the system. To give an example, if a smart contract requires to access a weather forecast, it can be done basically in two ways: either each miner accesses the data by its own, performing independent requests that might fetch different forecasts (perhaps simply because it has been updated), or every miner relies on a single source of truth, sometimes referred as “oracle”. It is easy to notice that we are compromising between centralization/decentralization advantages and disadvantages.&lt;br&gt;
+Programming smart contract has become notoriously difficult for numerous pitfalls that make it different from standard programming. A few examples among the others is relying on an ordered transaction execution, which is not guaranteed in real world blockchain since miners take free decisions with this regard. Additionally, smart contracts have to be extra careful trying to foresee and handle every possible kind of exception, otherwise the risk is to lose the funds.&lt;br&gt;
+&lt;br&gt;
+Ekiden is a proposal to improve privacy and performance of current smart contract platforms. It uses a Trusted Execution Environment to enforce privacy, indeed outgoing data is encrypted by the hardware module and stored like that on the blockchain. The system distinguishes 3 different roles: clients, compute nodes and consensus nodes, thus decoupling the two different tasks. Comparing Ekiden with Ethereum, a performance gain of about three orders magnitude has been measured.&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The benefit of programming</title>
+      <link>/post/2018-08-21-the-benefits-of-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2018-08-21-the-benefits-of-programming/</guid>
+      <description>&lt;p&gt;This is a small story about having a &amp;ldquo;programming hat&amp;rdquo; in your closet ready to be worn.&lt;/p&gt;
+&lt;p&gt;I like math and I have great respect for every profession that involves it. Therefore I continuously try to keep me in
+exercise solving problems and recently I have found out about a beautiful website called &lt;a href=&#34;https://brilliant.org&#34;&gt;&lt;em&gt;Brilliant&lt;/em&gt;&lt;/a&gt;. It has a very well design that makes you wanting to spend hours there
+and proposes loads of exercises.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/imgs/brilliant01.png&#34; alt=&#34;Found the Radius&#34;&gt;{:height=&amp;quot;50%&amp;rdquo; width=&amp;quot;50%&amp;quot;}&lt;/p&gt;
+&lt;p&gt;I stumbled upon this particular exercises but I didn&#39;t want to give up, I felt it was totally at my reach
+but I couldn&#39;t find a closed solution so I decided to write a program to solve it (with my favorite programming language which, by the way, is python).&lt;/p&gt;
+&lt;p&gt;As soon as I started to formalize the problem and to develop equations that would constrain the solution I could see very clearly the calculation that would have brought me to the numerical solution.&lt;/p&gt;
+&lt;p&gt;I firmly believe that every project in STEM area should be accompanied by some code that wraps the idea up. Programming should be taught starting from the first year of college so to give every student the time to crystallize concepts and improve. I find this true also for inherently speculative and less practical subjects like mathematics and physics, especially the way they are taught in Italy. I always had passion for practical activity and programming gives you the power to actually create something that wasn&#39;t existing before, pretty much as craftsmanship or gardening.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing Papers</title>
+      <link>/post/2019-02-10-writing-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2019-02-10-writing-papers/</guid>
+      <description>&lt;p&gt;As mentioned in a previous post, the best way to improve writing papers is doing it, avoing the writer&#39;s block (which actually doesn&#39;t exist).&lt;/p&gt;
+&lt;p&gt;Good Papers follow a certain structure, and an experienced reviewr con spot in a few seconds, with the blink of an eye which is good and which is bad (read Malcom Gladwell&#39;s Blink).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
