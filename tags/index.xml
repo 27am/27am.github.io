@@ -5,12 +5,20 @@
     <link>https://27am.github.io/tags/</link>
       <atom:link href="https://27am.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Feb 2019 14:15:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://27am.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://27am.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>excellence</title>
+      <link>https://27am.github.io/tags/excellence/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/tags/excellence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>fault tolerance</title>
@@ -21,10 +29,66 @@
     </item>
     
     <item>
+      <title>cancer</title>
+      <link>https://27am.github.io/tags/cancer/</link>
+      <pubDate>Mon, 20 Feb 2017 14:15:00 +0000</pubDate>
+      <guid>https://27am.github.io/tags/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>detection</title>
+      <link>https://27am.github.io/tags/detection/</link>
+      <pubDate>Mon, 20 Feb 2017 14:15:00 +0000</pubDate>
+      <guid>https://27am.github.io/tags/detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lung</title>
+      <link>https://27am.github.io/tags/lung/</link>
+      <pubDate>Mon, 20 Feb 2017 14:15:00 +0000</pubDate>
+      <guid>https://27am.github.io/tags/lung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://27am.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 20 Feb 2017 14:15:00 +0000</pubDate>
+      <guid>https://27am.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matlab</title>
+      <link>https://27am.github.io/tags/matlab/</link>
+      <pubDate>Mon, 20 Feb 2017 14:15:00 +0000</pubDate>
+      <guid>https://27am.github.io/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>acronyms</title>
       <link>https://27am.github.io/tags/acronyms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://27am.github.io/tags/acronyms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://27am.github.io/tags/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT</title>
+      <link>https://27am.github.io/tags/it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/tags/it/</guid>
       <description></description>
     </item>
     

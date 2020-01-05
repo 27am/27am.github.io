@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>books | Andrea Merlina</title>
+    <link>https://27am.github.io/tags/books/</link>
+      <atom:link href="https://27am.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <description>books</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://27am.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>books</title>
+      <link>https://27am.github.io/tags/books/</link>
+    </image>
+    
+    <item>
+      <title>Books</title>
+      <link>https://27am.github.io/pages/readings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/pages/readings/</guid>
+      <description>&lt;p&gt;I love to read, it is the way I spend a good part of my spare time. Books allow you to travel without moving and provide a way to learn and explore. Throughout the years I have been reading a lot of books, here I just want to write down some of them.&lt;/p&gt;
+&lt;h3 id=&#34;essays&#34;&gt;Essays&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;21 lecciones para el siglo XXI - Juval Noah Harari (2018) (spanish)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technology&#34;&gt;Technology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;X networks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;physics&#34;&gt;Physics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Black holes &amp;amp; time warps - Kip Thorne (english)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

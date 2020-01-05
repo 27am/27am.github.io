@@ -4,7 +4,27 @@
   
   <url>
     <loc>https://27am.github.io/</loc>
-    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/project/credence/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/tags/excellence/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/project/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/tags/</loc>
+    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,8 +63,38 @@
   </url>
   
   <url>
-    <loc>https://27am.github.io/tags/</loc>
-    <lastmod>2019-02-20T14:15:00+00:00</lastmod>
+    <loc>https://27am.github.io/tags/cancer/</loc>
+    <lastmod>2017-02-20T14:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/tags/detection/</loc>
+    <lastmod>2017-02-20T14:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/talk/enose/</loc>
+    <lastmod>2017-02-20T14:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/tags/lung/</loc>
+    <lastmod>2017-02-20T14:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/tags/machine-learning/</loc>
+    <lastmod>2017-02-20T14:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/tags/matlab/</loc>
+    <lastmod>2017-02-20T14:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/pages/motivation/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -72,6 +122,14 @@
   </url>
   
   <url>
+    <loc>https://27am.github.io/pages/readings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/tags/books/</loc>
+  </url>
+  
+  <url>
     <loc>https://27am.github.io/categories/</loc>
   </url>
   
@@ -93,6 +151,10 @@
   
   <url>
     <loc>https://27am.github.io/post/2019-07-22-iota/</loc>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/tags/it/</loc>
   </url>
   
   <url>
