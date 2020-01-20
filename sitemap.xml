@@ -28,16 +28,6 @@
   </url>
   
   <url>
-    <loc>https://27am.github.io/post/</loc>
-    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/post/2019-07-22-zerocash/</loc>
-    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://27am.github.io/authors/admin/</loc>
     <lastmod>2019-02-20T14:15:00+00:00</lastmod>
   </url>
@@ -106,22 +96,6 @@
   </url>
   
   <url>
-    <loc>https://27am.github.io/post/2019-07-22-advanced-blockchain-storage/</loc>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/post/2019-02-27-alternative-consensus/</loc>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/post/2019-06-27-application-blockchain/</loc>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/post/2019-02-12-bitcoin-in-research/</loc>
-  </url>
-  
-  <url>
     <loc>https://27am.github.io/pages/readings/</loc>
   </url>
   
@@ -134,23 +108,7 @@
   </url>
   
   <url>
-    <loc>https://27am.github.io/post/2019-03-22-corda/</loc>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/post/2019-03-10-ethereum/</loc>
-  </url>
-  
-  <url>
     <loc>https://27am.github.io/post/2019-01-14-how-to-read-a-book/</loc>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/post/2019-03-23-hyperledger/</loc>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/post/2019-07-22-iota/</loc>
   </url>
   
   <url>
@@ -158,11 +116,11 @@
   </url>
   
   <url>
-    <loc>https://27am.github.io/post/2019-02-05-mining-in-bitcoin/</loc>
+    <loc>https://27am.github.io/pages/</loc>
   </url>
   
   <url>
-    <loc>https://27am.github.io/pages/</loc>
+    <loc>https://27am.github.io/post/</loc>
   </url>
   
   <url>
@@ -183,14 +141,6 @@
   
   <url>
     <loc>https://27am.github.io/tags/reference/</loc>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/post/2019-07-22-scaling-blockchain/</loc>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/post/2019-07-22-smart-contracts/</loc>
   </url>
   
   <url>
