@@ -13,70 +13,9 @@
     </image>
     
     <item>
-      <title>Reading list</title>
-      <link>https://27am.github.io/pages/readinglist/</link>
-      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://27am.github.io/pages/readinglist/</guid>
-      <description>&lt;p&gt;I love to read, and I try to allocate to book as much time as I can. Books makes you travel without renouncing the comfort of your sofa and the warmth of a cup a tea. They are teachers and explorers. Throughout the years I have been reading a decent number of books, here I am trying to track down what has been my journey as a reader.&lt;/p&gt;
-&lt;h3 id=&#34;currently-reading&#34;&gt;Currently reading&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Consciousness and the brain&lt;/strong&gt;, deciphering how the brain codes our thoughts &lt;em&gt;by Stanislas Dehaene&lt;/em&gt;. This is an interesting read about ourselves. First of all there is a lot of imprecision surrounding the definition of counsciousness. What does it mean to be conscious of possess consciousness?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;2019&#34;&gt;2019&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;21 lecciones para el siglo XXI&lt;/strong&gt; &lt;em&gt;by Juval Noah Harari&lt;/em&gt;. The title is in spanish because I read the book in spanish. The narration is well developed but I found it less coherent than the previous two books of the author. Okay, it might be partly due to the fact that I was frequently checking out terms on the way, but every chapter is pretty much self contained and can be read autonomously. This can be interpreted both as an advantage or a disadvantage based on reading tastes.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Black holes &amp;amp; time warps&lt;/strong&gt; &lt;em&gt;by Kip Thorne&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CREDENCE</title>
-      <link>https://27am.github.io/project/credence/</link>
-      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://27am.github.io/project/credence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Practical Byzantine Fault Tolerance</title>
-      <link>https://27am.github.io/talk/pbft/</link>
-      <pubDate>Wed, 20 Feb 2019 14:15:00 +0000</pubDate>
-      <guid>https://27am.github.io/talk/pbft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Electronic nose for lung cancer detection</title>
-      <link>https://27am.github.io/talk/enose/</link>
-      <pubDate>Mon, 20 Feb 2017 14:15:00 +0000</pubDate>
-      <guid>https://27am.github.io/talk/enose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://27am.github.io/pages/life/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://27am.github.io/pages/life/</guid>
-      <description>&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;
-&lt;p&gt;Humans are wonderful creatures that experience subjectively everything that happens to them. The same event on the same person can have different impact depending on the mood and the attitude. I strongly believe it is important to pay enough attention to feeling and emotions. This page is about that: a short collection of resources to put life in a good perspective. I am thankful to everybody that contributed in the content creation and its diffusion so that eventually it reached me.&lt;/p&gt;
-&lt;h3 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UF8uR6Z6KLc&#34;&gt;Steve Jobs&amp;rsquo; speech at Stanford&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EWPFmdAWRZ0&amp;amp;t=249s&#34;&gt;Pale blue dot speech by Carl Sagan&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;reflection&#34;&gt;Reflection&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qX6NztnPU-4&#34;&gt;An old philosopher faces his own death&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Acronyms</title>
       <link>https://27am.github.io/pages/acronyms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://27am.github.io/pages/acronyms/</guid>
       <description>&lt;p&gt;In many resources IT related you will encounter acronyms whose meaning might be obscure. This is a list of some of them that I use as self reference. I hope it can prove helpful for you too.&lt;/p&gt;
 &lt;h3 id=&#34;a&#34;&gt;A&lt;/h3&gt;
@@ -188,6 +127,67 @@
 &lt;p&gt;&lt;code&gt;WSS&lt;/code&gt; Web Services Security&lt;/p&gt;
 &lt;h3 id=&#34;y&#34;&gt;Y&lt;/h3&gt;
 &lt;h3 id=&#34;z&#34;&gt;Z&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reading list</title>
+      <link>https://27am.github.io/pages/readinglist/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/pages/readinglist/</guid>
+      <description>&lt;p&gt;I love to read, and I try to allocate to book as much time as I can. Books makes you travel without renouncing the comfort of your sofa and the warmth of a cup a tea. They are teachers and explorers. Throughout the years I have been reading a decent number of books, here I am trying to track down what has been my journey as a reader.&lt;/p&gt;
+&lt;h2 id=&#34;currently-reading&#34;&gt;Currently reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Consciousness and the brain&lt;/strong&gt;, deciphering how the brain codes our thoughts &lt;em&gt;by Stanislas Dehaene&lt;/em&gt;. This is an interesting read about ourselves. First of all there is a lot of imprecision surrounding the definition of counsciousness. What does it mean to be conscious of possess consciousness?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2019&#34;&gt;2019&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;21 lecciones para el siglo XXI&lt;/strong&gt; &lt;em&gt;by Juval Noah Harari&lt;/em&gt;. The title is in spanish because I read the book in spanish. The narration is well developed but I found it less coherent than the previous two books of the author. Okay, it might be partly due to the fact that I was frequently checking out terms on the way, but every chapter is pretty much self contained and can be read autonomously. This can be interpreted both as an advantage or a disadvantage based on reading tastes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Black holes &amp;amp; time warps&lt;/strong&gt; &lt;em&gt;by Kip Thorne&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CREDENCE</title>
+      <link>https://27am.github.io/project/credence/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/project/credence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Byzantine Fault Tolerance</title>
+      <link>https://27am.github.io/talk/pbft/</link>
+      <pubDate>Wed, 20 Feb 2019 14:15:00 +0000</pubDate>
+      <guid>https://27am.github.io/talk/pbft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic nose for lung cancer detection</title>
+      <link>https://27am.github.io/talk/enose/</link>
+      <pubDate>Mon, 20 Feb 2017 14:15:00 +0000</pubDate>
+      <guid>https://27am.github.io/talk/enose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://27am.github.io/pages/life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/pages/life/</guid>
+      <description>&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;
+&lt;p&gt;Humans are wonderful creatures that experience subjectively everything that happens to them. The same event on the same person can have different impact depending on the mood and the attitude. I strongly believe it is important to pay enough attention to feeling and emotions. This page is about that: a short collection of resources to put life in a good perspective. I am thankful to everybody that contributed in the content creation and its diffusion so that eventually it reached me.&lt;/p&gt;
+&lt;h3 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=UF8uR6Z6KLc&#34;&gt;Steve Jobs&amp;rsquo; speech at Stanford&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EWPFmdAWRZ0&amp;amp;t=249s&#34;&gt;Pale blue dot speech by Carl Sagan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;reflection&#34;&gt;Reflection&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qX6NztnPU-4&#34;&gt;An old philosopher faces his own death&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>acronyms</title>
+      <link>https://27am.github.io/tags/acronyms/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/tags/acronyms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>books</title>
       <link>https://27am.github.io/tags/books/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
@@ -21,10 +29,26 @@
     </item>
     
     <item>
+      <title>IT</title>
+      <link>https://27am.github.io/tags/it/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/tags/it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>reading</title>
       <link>https://27am.github.io/tags/reading/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://27am.github.io/tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reference</title>
+      <link>https://27am.github.io/tags/reference/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/tags/reference/</guid>
       <description></description>
     </item>
     
@@ -81,30 +105,6 @@
       <link>https://27am.github.io/tags/matlab/</link>
       <pubDate>Mon, 20 Feb 2017 14:15:00 +0000</pubDate>
       <guid>https://27am.github.io/tags/matlab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>acronyms</title>
-      <link>https://27am.github.io/tags/acronyms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://27am.github.io/tags/acronyms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IT</title>
-      <link>https://27am.github.io/tags/it/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://27am.github.io/tags/it/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reference</title>
-      <link>https://27am.github.io/tags/reference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://27am.github.io/tags/reference/</guid>
       <description></description>
     </item>
     
