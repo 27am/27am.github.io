@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://27am.github.io/pages/motivation/</loc>
+    <loc>https://27am.github.io/pages/life/</loc>
     <priority>0</priority>
   </url>
   
@@ -93,10 +93,6 @@
   
   <url>
     <loc>https://27am.github.io/tags/acronyms/</loc>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/pages/readings/</loc>
   </url>
   
   <url>
@@ -137,6 +133,10 @@
   
   <url>
     <loc>https://27am.github.io/post/2018-08-09-python-logging/</loc>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/pages/readinglist/</loc>
   </url>
   
   <url>
