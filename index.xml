@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>SmartMed</title>
+      <link>https://27am.github.io/project/smartmed/smartmed/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/project/smartmed/smartmed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Acronyms</title>
       <link>https://27am.github.io/pages/acronyms/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
@@ -166,9 +174,9 @@
     
     <item>
       <title>CREDENCE</title>
-      <link>https://27am.github.io/project/credence/</link>
+      <link>https://27am.github.io/project/credence/credence/</link>
       <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://27am.github.io/project/credence/</guid>
+      <guid>https://27am.github.io/project/credence/credence/</guid>
       <description></description>
     </item>
     
@@ -186,6 +194,16 @@
       <pubDate>Mon, 20 Feb 2017 14:15:00 +0000</pubDate>
       <guid>https://27am.github.io/talk/enose/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>https://27am.github.io/project/random/p/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/project/random/p/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
     </item>
     
     <item>

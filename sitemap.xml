@@ -43,6 +43,21 @@
   </url>
   
   <url>
+    <loc>https://27am.github.io/tags/healthcare/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/project/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/project/smartmed/smartmed/</loc>
+    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://27am.github.io/pages/acronyms/</loc>
     <lastmod>2020-02-16T00:00:00+00:00</lastmod>
   </url>
@@ -103,17 +118,12 @@
   </url>
   
   <url>
-    <loc>https://27am.github.io/project/credence/</loc>
+    <loc>https://27am.github.io/project/credence/credence/</loc>
     <lastmod>2019-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://27am.github.io/tags/excellence/</loc>
-    <lastmod>2019-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/project/</loc>
     <lastmod>2019-10-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -155,6 +165,16 @@
   <url>
     <loc>https://27am.github.io/tags/matlab/</loc>
     <lastmod>2017-02-20T14:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/project/random/p/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
