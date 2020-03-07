@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://27am.github.io/authors/admin/</loc>
-    <lastmod>2020-03-05T13:15:00+00:00</lastmod>
+    <loc>https://27am.github.io/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://27am.github.io/</loc>
+    <loc>https://27am.github.io/post/2019-01-14-how-to-read-a-book/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/post/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/authors/admin/</loc>
     <lastmod>2020-03-05T13:15:00+00:00</lastmod>
   </url>
   
@@ -177,14 +187,6 @@
   </url>
   
   <url>
-    <loc>https://27am.github.io/post/2019-01-14-how-to-read-a-book/</loc>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/post/</loc>
-  </url>
-  
-  <url>
     <loc>https://27am.github.io/publication_types/</loc>
   </url>
   
@@ -193,19 +195,7 @@
   </url>
   
   <url>
-    <loc>https://27am.github.io/post/2018-07-16-pyplot/</loc>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/post/2018-08-09-python-logging/</loc>
-  </url>
-  
-  <url>
     <loc>https://27am.github.io/post/2018-08-21-the-benefits-of-programming/</loc>
-  </url>
-  
-  <url>
-    <loc>https://27am.github.io/post/2019-02-10-writing-papers/</loc>
   </url>
   
 </urlset>

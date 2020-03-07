@@ -5,12 +5,37 @@
     <link>https://27am.github.io/</link>
       <atom:link href="https://27am.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Merlina</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2020 13:15:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://27am.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Andrea Merlina</title>
       <link>https://27am.github.io/</link>
     </image>
+    
+    <item>
+      <title>My way to read a book</title>
+      <link>https://27am.github.io/post/2019-01-14-how-to-read-a-book/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/2019-01-14-how-to-read-a-book/</guid>
+      <description>&lt;p&gt;Reading seems easy. Your eyes might run effortlessly, crunching black ink shapes on snow white paper and yet, when you try to recall what you have just read, emptiness. It happens to everybody, that&#39;s why I believe it is important to have some sort of technique while reading. Even if is seems as simple as reading.
+Those are the steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Gather contextual information about the book. Who is the author? When and where was it written?&lt;/li&gt;
+&lt;li&gt;Read the book while taking notes on the margins.&lt;/li&gt;
+&lt;li&gt;After every paragraph pause and reflect on what you have been reading.&lt;/li&gt;
+&lt;li&gt;When you finish the book wait one week, then review its structure, the main concepts and your notes.&lt;/li&gt;
+&lt;li&gt;Find your personal way to index the knowledge you just acquired.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Following those steps requires effort, and makes Sometimes I find myself skipping some of those points although as a rule I try to stick to them. Let&#39;s have a look a bit more in detail.&lt;/p&gt;
+&lt;h4 id=&#34;1-gather-contextual-information-about-the-book&#34;&gt;1. Gather contextual information about the book&lt;/h4&gt;
+&lt;p&gt;Every book has a story behind, which is not told in its pages. The author is very likely to have spent ten times more time writing them than you reading.
+Moreover every person is influenced by the current social and historical context. To correctly interpret the main ideas we should be able to grasp this and put the book&#39;s argumentation in perspective.&lt;/p&gt;
+&lt;h4 id=&#34;2-read-it-taking-notes-on-the-margins&#34;&gt;2. Read it taking notes on the margins&lt;/h4&gt;
+&lt;p&gt;Those are called marginalia and I haven&#39;t been using them since the beginning. I actually though to be an ominous crime to ruin let alone write on any book.&lt;/p&gt;
+&lt;h4 id=&#34;3-after-every-paragraph-pause-and-reflect-on-what-you-have-been-reading&#34;&gt;3. After every paragraph pause and reflect on what you have been reading.&lt;/h4&gt;
+&lt;p&gt;Reflection&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain meets Machine Learning</title>
@@ -217,82 +242,6 @@
     </item>
     
     <item>
-      <title>How to read a book</title>
-      <link>https://27am.github.io/post/2019-01-14-how-to-read-a-book/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://27am.github.io/post/2019-01-14-how-to-read-a-book/</guid>
-      <description>&lt;p&gt;I read a lot because I love it.
-Here there are some points&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Gather contextual information about the book&lt;/li&gt;
-&lt;li&gt;Read it taking notes on the margins&lt;/li&gt;
-&lt;li&gt;After every paragraph pause and reflect on what you have been reading.&lt;/li&gt;
-&lt;li&gt;When you finish the book wait one week, then review its structure, the main concepts and your notes.&lt;/li&gt;
-&lt;li&gt;Find your personal way to index the knowledge you just aquired.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Okay so this is the shortlist of the steps I try to follow. Sometimes I find myself skipping some of those points although as a rule I try to stick to them. Let&#39;s have a look a bit more in detail.&lt;/p&gt;
-&lt;h3 id=&#34;gather-contextual-information-about-the-book&#34;&gt;Gather contextual information about the book&lt;/h3&gt;
-&lt;p&gt;Every book has a story behind that is not told in its pages. The author is very likely to have spent 10 times more time writing them than you reading.
-Moreover every person is the result of the social and historical context she has been living in. To correctly decipher the main contribution we should be able to grasp this.&lt;/p&gt;
-&lt;h1 id=&#34;read-it-taking-notes-on-the-margins&#34;&gt;Read it taking notes on the margins&lt;/h1&gt;
-&lt;p&gt;Those are called marginalia and I haven&#39;t been using them since the beginning. I actually though to be an ominous crime to ruin let alone write on any book.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>pyplot</title>
-      <link>https://27am.github.io/post/2018-07-16-pyplot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://27am.github.io/post/2018-07-16-pyplot/</guid>
-      <description>&lt;p&gt;matplotlib.pyplot is a library to show diagrams&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;
-plot.figure()
-plot.scatter(k, sum_cf, color=&#39;black&#39;, label=&#39;Sum of Cause Fractions&#39;)
-plot.scatter(k, data[:, 0],  color=&#39;b&#39;, label=&#39;Dis 1: cf = .6, var = .2&#39;)
-plot.scatter(k, data[:, 1],  color=&#39;r&#39;,  label=&#39;Dis 2: cf = .2, var = .1&#39;)
-plot.scatter(k, data[:, 2],  color=&#39;g&#39;, label=&#39;Dis 3: cf = .1, var = .01&#39;)
-plot.legend(loc=2)
-
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;okay&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Python logging</title>
-      <link>https://27am.github.io/post/2018-08-09-python-logging/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://27am.github.io/post/2018-08-09-python-logging/</guid>
-      <description>&lt;p&gt;To act as a reference for every program&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;import logging
-
-&#39;&#39;&#39;
-- DEBUG (lowest)
-- INFO
-- WARNING
-- ERROR
-- CRITICAL (highest)
-&#39;&#39;&#39;
-
-# get the logger
-logger = logging.getLogger()
-
-# set parameters
-handler = logging.FileHandler(&amp;quot;file.log&amp;quot;)
-formatter = logging.Formatter(&#39;%(asctime)-8s %(levelname)-8s %(message)s&#39;)
-
-# add parameters
-handler.setFormatter(formatter)
-logger.addHandler(handler)
-logger.setLevel(logging.DEBUG)
-
-logger.debug(&amp;quot;something worth of logging&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;For a deeper dive, visit &lt;a href=&#34;https://docs.python.org/3/howto/logging.html#logging-basic-tutorial&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The benefit of programming</title>
       <link>https://27am.github.io/post/2018-08-21-the-benefits-of-programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -306,16 +255,6 @@ and proposes loads of exercises.&lt;/p&gt;
 but I couldn&#39;t find a closed solution so I decided to write a program to solve it (with my favorite programming language which, by the way, is python).&lt;/p&gt;
 &lt;p&gt;As soon as I started to formalize the problem and to develop equations that would constrain the solution I could see very clearly the calculation that would have brought me to the numerical solution.&lt;/p&gt;
 &lt;p&gt;I firmly believe that every project in STEM area should be accompanied by some code that wraps the idea up. Programming should be taught starting from the first year of college so to give every student the time to crystallize concepts and improve. I find this true also for inherently speculative and less practical subjects like mathematics and physics, especially the way they are taught in Italy. I always had passion for practical activity and programming gives you the power to actually create something that wasn&#39;t existing before, pretty much as craftsmanship or gardening.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Writing Papers</title>
-      <link>https://27am.github.io/post/2019-02-10-writing-papers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://27am.github.io/post/2019-02-10-writing-papers/</guid>
-      <description>&lt;p&gt;As mentioned in a previous post, the best way to improve writing papers is doing it, avoing the writer&#39;s block (which actually doesn&#39;t exist).&lt;/p&gt;
-&lt;p&gt;Good Papers follow a certain structure, and an experienced reviewr con spot in a few seconds, with the blink of an eye which is good and which is bad (read Malcom Gladwell&#39;s Blink).&lt;/p&gt;
 </description>
     </item>
     
