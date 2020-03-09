@@ -5,7 +5,7 @@
     <link>https://27am.github.io/post/</link>
       <atom:link href="https://27am.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://27am.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,10 +13,35 @@
     </image>
     
     <item>
+      <title>MiCa: A Compositional Architecture for Gossip Protocols</title>
+      <link>https://27am.github.io/post/papers/mica_-a-compositional-architecture-for-gossip-protocols/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/papers/mica_-a-compositional-architecture-for-gossip-protocols/</guid>
+      <description>&lt;h1 id=&#34;mica-a-compositional-architecture-for-gossip-protocols&#34;&gt;MiCa: A Compositional Architecture for Gossip Protocols&lt;/h1&gt;
+&lt;p&gt;The paper can be found &lt;a href=&#34;https://www.inf.usi.ch/faculty/soule/pubs/ecoop2014.pdf&#34;&gt;here.&lt;/a&gt; and discusses a system to build management tools based on gossip protocols.&lt;/p&gt;
+&lt;p&gt;In general, gossip protocols are characterized by randomized peer selection and periodic communication, which makes them extremely fault tolerant since there is no realiance on a single path.&lt;/p&gt;
+&lt;p&gt;MiCa allows to compose several different gossip protocols and to run them independently&lt;/p&gt;
+&lt;p&gt;A protocols is defined by a tuple containing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Node&#39;s states&lt;/li&gt;
+&lt;li&gt;Rate of gossiping&lt;/li&gt;
+&lt;li&gt;View: A probability mass distribution to sample the peers&lt;/li&gt;
+&lt;li&gt;update of state&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The framework supports different typs of composition&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Independence preserving&lt;/li&gt;
+&lt;li&gt;Correlated: the gossip subprotocols are exectuted together as often as possible while presering the probability distributiond and the Rate&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;An example of composition is to first create a tree overlay, executed a broadcast opeation to the leaf nodes of the overlay and then aggregate the result back to the overlay root, i.e. a node acting as a leader.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>My way to read a book</title>
-      <link>https://27am.github.io/post/my_way_to_read_a_book/my-way-to-read-a-book/</link>
+      <link>https://27am.github.io/post/guides/my-way-to-read-a-book/</link>
       <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://27am.github.io/post/my_way_to_read_a_book/my-way-to-read-a-book/</guid>
+      <guid>https://27am.github.io/post/guides/my-way-to-read-a-book/</guid>
       <description>&lt;p&gt;Reading seems easy. Your eyes might run effortlessly, crunching black ink shapes on snow white paper and yet, when you try to recall what you have just read, emptiness. It happens to everybody, that&#39;s why I believe it is important to have some sort of technique while reading. Even if is seems as simple as reading.
 Those are the steps:&lt;/p&gt;
 &lt;ol&gt;
