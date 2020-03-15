@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://27am.github.io/post/papers/mica_-a-compositional-architecture-for-gossip-protocols/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+    <loc>https://27am.github.io/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://27am.github.io/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+    <loc>https://27am.github.io/post/neuro/consciousness/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://27am.github.io/post/</loc>
-    <lastmod>2020-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -153,6 +153,11 @@
   </url>
   
   <url>
+    <loc>https://27am.github.io/post/blockchain/mining-in-bitcoin/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://27am.github.io/tags/cancer/</loc>
     <lastmod>2017-02-20T14:15:00+00:00</lastmod>
   </url>
@@ -189,6 +194,10 @@
   
   <url>
     <loc>https://27am.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://27am.github.io/post/papers/mica/</loc>
   </url>
   
   <url>
