@@ -5,12 +5,22 @@
     <link>https://27am.github.io/pages/</link>
       <atom:link href="https://27am.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <description>Pages</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 29 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://27am.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Pages</title>
       <link>https://27am.github.io/pages/</link>
     </image>
+    
+    <item>
+      <title>Norway</title>
+      <link>https://27am.github.io/pages/norway/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/pages/norway/</guid>
+      <description>&lt;h2 id=&#34;hello-there&#34;&gt;Hello there!&lt;/h2&gt;
+&lt;p&gt;Testing&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Motivation</title>
@@ -105,6 +115,14 @@ Motivation is what sits behind the curtrains and pulls the strings of our daily 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&amp;ldquo;What is common to many is taken least care of, for all men have greater regard for what is their own than for what they possess in common with others.&amp;quot;&lt;/em&gt;
 — Aristotle&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Everything should be made as simple as possible, but not simpler.&amp;quot;&lt;/em&gt;
+— Albert Einstein&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Simple things should be simple, complex things should be possible.&amp;quot;&lt;/em&gt;
+– Alan Kay.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -232,7 +250,8 @@ Motivation is what sits behind the curtrains and pulls the strings of our daily 
       <link>https://27am.github.io/pages/food/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://27am.github.io/pages/food/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;hello-there&#34;&gt;Hello there!&lt;/h2&gt;
+</description>
     </item>
     
     <item>
