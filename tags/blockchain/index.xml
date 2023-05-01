@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blockchain | Andrea Merlina</title>
+    <link>https://27am.github.io/tags/blockchain/</link>
+      <atom:link href="https://27am.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <description>blockchain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://27am.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>blockchain</title>
+      <link>https://27am.github.io/tags/blockchain/</link>
+    </image>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://27am.github.io/pages/technology/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/pages/technology/</guid>
+      <description>&lt;p&gt;I will be mostly writing about blockchain and cloud.&lt;/p&gt;
+&lt;p&gt;Click on a tag below to search for relevant posts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mining in Bitcoin</title>
+      <link>https://27am.github.io/post/blockchain/mining-in-bitcoin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/blockchain/mining-in-bitcoin/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary.&lt;/strong&gt; &lt;em&gt;The gold of the 21st century is not made of atoms but bits. Old terms acquire new meanings, while society steadily walks towards post-modernism.&lt;/em&gt;&lt;/p&gt;
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://27am.github.io/img/blockchain/excavator.jpg&#34; &gt;
+&lt;img data-src=&#34;https://27am.github.io/img/blockchain/excavator.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The term &lt;em&gt;mining&lt;/em&gt; might evoke ancient times images: gold diggers of the 19th centuries rushing to be the first one to discover a gold vein, or in more recent times it might remind you of the pixellated word of Minecraft (and dozens similar).&lt;/p&gt;
+&lt;p&gt;In Bitcoin, mining is not performed by digging a hole with a shovel but instead by computing cryptographic hash functions as quickly as possible in order to find our gold: the solution to a crypto puzzle. The output of a hash function is called digest, and for us to be valid it must belong to a limited set of solution whose value has to be lower than an adjustable threshold, i.e. it should, at least in the case of Bitcoin, begin with a certain number of leading zeros.
+The solution for this cryptographic puzzle is a scarce resource (exactly like diamonds) which makes it valuable.
+That’s the ingenious trick devised to give Bitcoin an economical value while remaining just a sequence of bits in somebody’s hard drive. It emulates in a digital environment the pile of gold that has been hardly and over time accumulated in a bank’s vault.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;That’s not the only possible type of Proof.  In general, in order to be a viable mining technique, it should satisfy some properties:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Be easy to verify, although moderately difficult to calculate&lt;/li&gt;
+&lt;li&gt;The effort to find a solution should be adjustable&lt;/li&gt;
+&lt;li&gt;The chance to find a solution should be proportional to the resources spent in mining, preventing one single miner to always win the race just because it’s the fastest. This property is called progress-free, memoryless or stateless.&lt;br&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Using mining techniques limits consistently the impact of Sybil attacks while giving a way to reach a consensus through the simple rule of expanding the longest chain. Indeed, without mining, any malicious actor would be able to destroy the system by creating fake identities.
+It’s still possible to subvert the system by owning large part of it, namely 51%, but it would be highly costly and, since it would destroy the trust and the profitability of the system right afterwards, it’s considered totally irrational from an economic point of view.
+This is linked to the concept of Nash equilibrium, where each stakeholder has the interest of following the rules of the system.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;For more details, &lt;a href=&#34;http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html&#34;&gt;Bitcoin mining the hard way&lt;/a&gt; is truly a gold mine.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;em&gt;Bitcoin and Cryptocurrency Technologies - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[2]&lt;/strong&gt; &lt;em&gt;Bitcoin and Beyond: A Technical Survey on Decentralized Digital Currencies - Florian Tschorsch, Björn Scheuerman&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

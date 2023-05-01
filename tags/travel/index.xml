@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>travel | Andrea Merlina</title>
+    <link>https://27am.github.io/tags/travel/</link>
+      <atom:link href="https://27am.github.io/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <description>travel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://27am.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>travel</title>
+      <link>https://27am.github.io/tags/travel/</link>
+    </image>
+    
+    <item>
+      <title>Everything else left</title>
+      <link>https://27am.github.io/pages/other/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/pages/other/</guid>
+      <description>&lt;h2 id=&#34;hey&#34;&gt;Hey!&lt;/h2&gt;
+&lt;p&gt;It was hard to decide the website organization and what to put on the upper bar.
+This page contains &amp;ldquo;everything left&amp;rdquo;.
+I am currently mostly thinking about food, wine, trips and painting but maybe something else will show up.&lt;/p&gt;
+&lt;p&gt;Clik on a tag below to search for relevant posts, if they are available. Cheers!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT | Andrea Merlina</title>
+    <link>https://27am.github.io/tags/it/</link>
+      <atom:link href="https://27am.github.io/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <description>IT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://27am.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>IT</title>
+      <link>https://27am.github.io/tags/it/</link>
+    </image>
+    
+    <item>
+      <title>Acronyms</title>
+      <link>https://27am.github.io/post/technology/2023-may-acronyms/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/technology/2023-may-acronyms/</guid>
+      <description>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://27am.github.io/img/work/acronym.jpg&#34; &gt;
+&lt;img data-src=&#34;https://27am.github.io/img/work/acronym.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;When specializing in a field, it is common to use and come across acronyms.
+In some cases, acronyms break the perimeter of the field and start being used by people at large.
+It is handy to say DNA rather than Deoxyribonucleic acid, so it is no wonder why many acronyms populate our everyday language.&lt;/p&gt;
+&lt;p&gt;In many cases, however, acronyms are a small barrier for people becoming familiar with a field.
+In here, I wanted to collect a not particularly complete list of acronyms I have encountered so far during my working life.
+The list is a continuous WIP (work in progress) and I am maintaining it for my own future reference.
+On the other hand I realized that it could be helpful to a broader audience and so here we are!&lt;/p&gt;
+&lt;h3 id=&#34;a&#34;&gt;A&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AAA&lt;/code&gt;  Authentication, Authorization and Accounting&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AAC&lt;/code&gt;  Adaptive Access Control&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AD&lt;/code&gt;   Active Directory&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ADFS&lt;/code&gt; Active Directory Federation Services&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AEP&lt;/code&gt;  Advanced Endpoint Protection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AMD&lt;/code&gt;  Advanced Malware Detection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AMP&lt;/code&gt;  Advanced Malware Protection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;APM&lt;/code&gt;  Application Portfolio Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ARPU&lt;/code&gt; Average Revenue Per User&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;APT&lt;/code&gt;  Advanced Persistent Threat&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ATP&lt;/code&gt;  Advanced Threat Protection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AUP&lt;/code&gt;  Acceptable Use Policy&lt;/p&gt;
+&lt;h3 id=&#34;b&#34;&gt;B&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;BIA&lt;/code&gt; Business Impact Analysis&lt;/p&gt;
+&lt;h3 id=&#34;c&#34;&gt;C&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;CIS&lt;/code&gt; Center for Internet Security&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;COOP&lt;/code&gt; Continuity of Operation&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;CMP&lt;/code&gt; Certificate Management Protocol&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;CNF&lt;/code&gt; Carrier Neutral Facility&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;CSP&lt;/code&gt; Cloud Service Provider&lt;/p&gt;
+&lt;h3 id=&#34;d&#34;&gt;D&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;DC&lt;/code&gt; Domain Controller&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;DCS&lt;/code&gt; Distributed Control System&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;DRM&lt;/code&gt; Digital Right Management&lt;/p&gt;
+&lt;h3 id=&#34;e&#34;&gt;E&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;EAL&lt;/code&gt; Evaluation Assurance Level&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EAPOL&lt;/code&gt; Extensible Authentication Protocol over Lan&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EDRM&lt;/code&gt; Enterprise Digital Right Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EH&lt;/code&gt; Ethical Hacking&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EMM&lt;/code&gt; Enterprise Mobility Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EPP&lt;/code&gt; End-Point Protection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ERP&lt;/code&gt; Enterprise Resource Planning&lt;/p&gt;
+&lt;h3 id=&#34;f&#34;&gt;F&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;FPE&lt;/code&gt; Field Preserving Encryption&lt;/p&gt;
+&lt;h3 id=&#34;g&#34;&gt;G&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;GRC&lt;/code&gt; Governance, Risk &amp;amp; Compliance&lt;/p&gt;
+&lt;h3 id=&#34;h&#34;&gt;H&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;HLD&lt;/code&gt; High Level Design&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;HSM&lt;/code&gt; Hardware Storage Modules&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;HSM&lt;/code&gt; Hardware Security Modules&lt;/p&gt;
+&lt;h3 id=&#34;i&#34;&gt;I&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;IAM&lt;/code&gt; Identity and Access Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ICAP&lt;/code&gt; Internet Content Adaptation Protocol&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ICFR&lt;/code&gt; Internal Control Over Financial Reporting&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IDaaS&lt;/code&gt; Identity as a Service&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IEC&lt;/code&gt; International Electrotechnical Commission&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;I&amp;amp;TS&lt;/code&gt; Information &amp;amp; Technology Services&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IoT&lt;/code&gt; Internet of Things&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IRM&lt;/code&gt; Information Right Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IT&lt;/code&gt; Information Technology&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ISMS&lt;/code&gt; Information Security Management System&lt;/p&gt;
+&lt;h3 id=&#34;j&#34;&gt;J&lt;/h3&gt;
+&lt;h3 id=&#34;k&#34;&gt;K&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;KMIP&lt;/code&gt; Key Management Interoperability Protocol&lt;/p&gt;
+&lt;h3 id=&#34;l&#34;&gt;L&lt;/h3&gt;
+&lt;h3 id=&#34;m&#34;&gt;M&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;MAB&lt;/code&gt; MAC Authentication Bypass&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;MAP&lt;/code&gt; Management Assessment Process&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;MIB&lt;/code&gt; Management Information Base&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;MFA&lt;/code&gt; Multi-Factor Authentication&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;MVNO&lt;/code&gt; Mobile Virtual Network Operator&lt;/p&gt;
+&lt;h3 id=&#34;n&#34;&gt;N&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;NAC&lt;/code&gt; Network Access Control&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;NSM&lt;/code&gt; Network and System Management&lt;/p&gt;
+&lt;h3 id=&#34;o&#34;&gt;O&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;OCSP&lt;/code&gt; Online Certificate Status Protocol&lt;/p&gt;
+&lt;h3 id=&#34;p&#34;&gt;P&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;PAC&lt;/code&gt; Proxy Auto-Config&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PAM&lt;/code&gt; Privileged Access Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PDU&lt;/code&gt; Protocol Data Unit&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PII&lt;/code&gt; Personal Identifiable Information&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PLC&lt;/code&gt; Programmable Logic Controller&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PLC&lt;/code&gt; Power Line Communication&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PT&lt;/code&gt; Penetration Testing&lt;/p&gt;
+&lt;h3 id=&#34;q&#34;&gt;Q&lt;/h3&gt;
+&lt;h3 id=&#34;r&#34;&gt;R&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;RFP&lt;/code&gt; Request For Proposal&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;RMS&lt;/code&gt; Right Management Solution&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ROI&lt;/code&gt; Return On Investement&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;RTU&lt;/code&gt; Remote Terminal Unit&lt;/p&gt;
+&lt;h3 id=&#34;s&#34;&gt;S&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;SAML&lt;/code&gt; Security Assertion Markup Language&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SCEP&lt;/code&gt; Simple Certificate Enrollment Protocol&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SIEM&lt;/code&gt; Security Information and Event Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SMM&lt;/code&gt; System Management Mode&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SLA&lt;/code&gt; Service Level Agreement&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SOAR&lt;/code&gt; Security Orchestration, Automation and Response&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SRM&lt;/code&gt; Security and Risk Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;STS&lt;/code&gt; Security Token Service&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SSO&lt;/code&gt; Single Sign On&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SWG&lt;/code&gt; Secure Web Gateway&lt;/p&gt;
+&lt;h3 id=&#34;t&#34;&gt;T&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;TCB&lt;/code&gt; Trusted Computing Base&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;TCO&lt;/code&gt; Total Cost of Ownership&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;TFTP&lt;/code&gt; Trivial File Transfer Protocol&lt;/p&gt;
+&lt;h3 id=&#34;u&#34;&gt;U&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;UEBA&lt;/code&gt; User and Entity Behavior Analysis&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;URI&lt;/code&gt; Uniform Resource Identifier&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;URL&lt;/code&gt; Uniform Resource Locator&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;UTC&lt;/code&gt; Coordinated Universal Time&lt;/p&gt;
+&lt;h3 id=&#34;v&#34;&gt;V&lt;/h3&gt;
+&lt;h3 id=&#34;w&#34;&gt;W&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;WAF&lt;/code&gt; Web Application Firewall&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;WBE&lt;/code&gt; Work Breakdown Element&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;WBS&lt;/code&gt; Work Breakdown Structure&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;WSS&lt;/code&gt; Web Services Security&lt;/p&gt;
+&lt;h3 id=&#34;y&#34;&gt;Y&lt;/h3&gt;
+&lt;h3 id=&#34;z&#34;&gt;Z&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

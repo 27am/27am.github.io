@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Andrea Merlina</title>
+    <link>https://27am.github.io/post/</link>
+      <atom:link href="https://27am.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://27am.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://27am.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>A Summary of my PhD</title>
+      <link>https://27am.github.io/post/technology/2023-may-phd-reflection/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/technology/2023-may-phd-reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acronyms</title>
+      <link>https://27am.github.io/post/technology/2023-may-acronyms/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/technology/2023-may-acronyms/</guid>
+      <description>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://27am.github.io/img/work/acronym.jpg&#34; &gt;
+&lt;img data-src=&#34;https://27am.github.io/img/work/acronym.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;When specializing in a field, it is common to use and come across acronyms.
+In some cases, acronyms break the perimeter of the field and start being used by people at large.
+It is handy to say DNA rather than Deoxyribonucleic acid, so it is no wonder why many acronyms populate our everyday language.&lt;/p&gt;
+&lt;p&gt;In many cases, however, acronyms are a small barrier for people becoming familiar with a field.
+In here, I wanted to collect a not particularly complete list of acronyms I have encountered so far during my working life.
+The list is a continuous WIP (work in progress) and I am maintaining it for my own future reference.
+On the other hand I realized that it could be helpful to a broader audience and so here we are!&lt;/p&gt;
+&lt;h3 id=&#34;a&#34;&gt;A&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;AAA&lt;/code&gt;  Authentication, Authorization and Accounting&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AAC&lt;/code&gt;  Adaptive Access Control&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AD&lt;/code&gt;   Active Directory&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ADFS&lt;/code&gt; Active Directory Federation Services&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AEP&lt;/code&gt;  Advanced Endpoint Protection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AMD&lt;/code&gt;  Advanced Malware Detection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AMP&lt;/code&gt;  Advanced Malware Protection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;APM&lt;/code&gt;  Application Portfolio Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ARPU&lt;/code&gt; Average Revenue Per User&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;APT&lt;/code&gt;  Advanced Persistent Threat&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ATP&lt;/code&gt;  Advanced Threat Protection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;AUP&lt;/code&gt;  Acceptable Use Policy&lt;/p&gt;
+&lt;h3 id=&#34;b&#34;&gt;B&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;BIA&lt;/code&gt; Business Impact Analysis&lt;/p&gt;
+&lt;h3 id=&#34;c&#34;&gt;C&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;CIS&lt;/code&gt; Center for Internet Security&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;COOP&lt;/code&gt; Continuity of Operation&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;CMP&lt;/code&gt; Certificate Management Protocol&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;CNF&lt;/code&gt; Carrier Neutral Facility&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;CSP&lt;/code&gt; Cloud Service Provider&lt;/p&gt;
+&lt;h3 id=&#34;d&#34;&gt;D&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;DC&lt;/code&gt; Domain Controller&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;DCS&lt;/code&gt; Distributed Control System&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;DRM&lt;/code&gt; Digital Right Management&lt;/p&gt;
+&lt;h3 id=&#34;e&#34;&gt;E&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;EAL&lt;/code&gt; Evaluation Assurance Level&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EAPOL&lt;/code&gt; Extensible Authentication Protocol over Lan&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EDRM&lt;/code&gt; Enterprise Digital Right Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EH&lt;/code&gt; Ethical Hacking&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EMM&lt;/code&gt; Enterprise Mobility Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EPP&lt;/code&gt; End-Point Protection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ERP&lt;/code&gt; Enterprise Resource Planning&lt;/p&gt;
+&lt;h3 id=&#34;f&#34;&gt;F&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;FPE&lt;/code&gt; Field Preserving Encryption&lt;/p&gt;
+&lt;h3 id=&#34;g&#34;&gt;G&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;GRC&lt;/code&gt; Governance, Risk &amp;amp; Compliance&lt;/p&gt;
+&lt;h3 id=&#34;h&#34;&gt;H&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;HLD&lt;/code&gt; High Level Design&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;HSM&lt;/code&gt; Hardware Storage Modules&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;HSM&lt;/code&gt; Hardware Security Modules&lt;/p&gt;
+&lt;h3 id=&#34;i&#34;&gt;I&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;IAM&lt;/code&gt; Identity and Access Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ICAP&lt;/code&gt; Internet Content Adaptation Protocol&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ICFR&lt;/code&gt; Internal Control Over Financial Reporting&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IDaaS&lt;/code&gt; Identity as a Service&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IEC&lt;/code&gt; International Electrotechnical Commission&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;I&amp;amp;TS&lt;/code&gt; Information &amp;amp; Technology Services&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IoT&lt;/code&gt; Internet of Things&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IRM&lt;/code&gt; Information Right Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;IT&lt;/code&gt; Information Technology&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ISMS&lt;/code&gt; Information Security Management System&lt;/p&gt;
+&lt;h3 id=&#34;j&#34;&gt;J&lt;/h3&gt;
+&lt;h3 id=&#34;k&#34;&gt;K&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;KMIP&lt;/code&gt; Key Management Interoperability Protocol&lt;/p&gt;
+&lt;h3 id=&#34;l&#34;&gt;L&lt;/h3&gt;
+&lt;h3 id=&#34;m&#34;&gt;M&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;MAB&lt;/code&gt; MAC Authentication Bypass&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;MAP&lt;/code&gt; Management Assessment Process&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;MIB&lt;/code&gt; Management Information Base&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;MFA&lt;/code&gt; Multi-Factor Authentication&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;MVNO&lt;/code&gt; Mobile Virtual Network Operator&lt;/p&gt;
+&lt;h3 id=&#34;n&#34;&gt;N&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;NAC&lt;/code&gt; Network Access Control&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;NSM&lt;/code&gt; Network and System Management&lt;/p&gt;
+&lt;h3 id=&#34;o&#34;&gt;O&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;OCSP&lt;/code&gt; Online Certificate Status Protocol&lt;/p&gt;
+&lt;h3 id=&#34;p&#34;&gt;P&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;PAC&lt;/code&gt; Proxy Auto-Config&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PAM&lt;/code&gt; Privileged Access Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PDU&lt;/code&gt; Protocol Data Unit&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PII&lt;/code&gt; Personal Identifiable Information&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PLC&lt;/code&gt; Programmable Logic Controller&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PLC&lt;/code&gt; Power Line Communication&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;PT&lt;/code&gt; Penetration Testing&lt;/p&gt;
+&lt;h3 id=&#34;q&#34;&gt;Q&lt;/h3&gt;
+&lt;h3 id=&#34;r&#34;&gt;R&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;RFP&lt;/code&gt; Request For Proposal&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;RMS&lt;/code&gt; Right Management Solution&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ROI&lt;/code&gt; Return On Investement&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;RTU&lt;/code&gt; Remote Terminal Unit&lt;/p&gt;
+&lt;h3 id=&#34;s&#34;&gt;S&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;SAML&lt;/code&gt; Security Assertion Markup Language&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SCEP&lt;/code&gt; Simple Certificate Enrollment Protocol&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SIEM&lt;/code&gt; Security Information and Event Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SMM&lt;/code&gt; System Management Mode&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SLA&lt;/code&gt; Service Level Agreement&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SOAR&lt;/code&gt; Security Orchestration, Automation and Response&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SRM&lt;/code&gt; Security and Risk Management&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;STS&lt;/code&gt; Security Token Service&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SSO&lt;/code&gt; Single Sign On&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;SWG&lt;/code&gt; Secure Web Gateway&lt;/p&gt;
+&lt;h3 id=&#34;t&#34;&gt;T&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;TCB&lt;/code&gt; Trusted Computing Base&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;TCO&lt;/code&gt; Total Cost of Ownership&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;TFTP&lt;/code&gt; Trivial File Transfer Protocol&lt;/p&gt;
+&lt;h3 id=&#34;u&#34;&gt;U&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;UEBA&lt;/code&gt; User and Entity Behavior Analysis&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;URI&lt;/code&gt; Uniform Resource Identifier&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;URL&lt;/code&gt; Uniform Resource Locator&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;UTC&lt;/code&gt; Coordinated Universal Time&lt;/p&gt;
+&lt;h3 id=&#34;v&#34;&gt;V&lt;/h3&gt;
+&lt;h3 id=&#34;w&#34;&gt;W&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;WAF&lt;/code&gt; Web Application Firewall&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;WBE&lt;/code&gt; Work Breakdown Element&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;WBS&lt;/code&gt; Work Breakdown Structure&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;WSS&lt;/code&gt; Web Services Security&lt;/p&gt;
+&lt;h3 id=&#34;y&#34;&gt;Y&lt;/h3&gt;
+&lt;h3 id=&#34;z&#34;&gt;Z&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Et Multikulturelt Samfunn</title>
+      <link>https://27am.github.io/post/norwegian/samfunn/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/norwegian/samfunn/</guid>
+      <description>&lt;h2 id=&#34;oslo-er-en-multikulturell-by-det-bor-mennesker-fra-mange-nasjoner-her-hvilke-fordeler-og-ulemper-synes-du-et-multikulturelt-samfunn-har&#34;&gt;Oslo er en multikulturell by. Det bor mennesker fra mange nasjoner her. Hvilke fordeler og ulemper synes du et multikulturelt samfunn har?&lt;/h2&gt;
+&lt;p&gt;Det er mange fordeler med å ha mennesker fra mange nasjoner som bor på samme sted. For det første, tar de med seg mat og forskjelle kulinariske tradisjoner. De åpner restauranter i Oslo og både nordmenn og de andre utlendingene kan spise og teste nye typer av mat. Dessuten har et multikulturelt samfunn personer som ikke tenker på den samme måten. Det fører til kreativitet, å være åpen for nye ideer og å se noe fra et annet perspektiv. På den andre siden kan det være ulemper i et multikulturelt samfunn fordi folk som vokste opp på samme sted er vant til å gjøre ting på en bestemt måte. Utlendinger kan være forvirret og forstår ikke alt som skjer. Å være høflig, for eksempel, er avhengig av kulturen sin. Det som er høflig for den ene personen kan være uhøflig for den andre.
+Språket kan være en begresning og minoriteter som ikke føler seg akseptert kan skape problemer. For et bra samfunn er det viktig å være inklusiv og en bra utlending må være åpen og lære seg språket.
+Kort sagt, er det ikke lett å forlate hjemlandet sitt og å flytte seg til et nytt sted, men det kan være fordeler med begge sider. Utlendinger vil gjerne arbeide og de betaler skatt. Dette er en fordel for et land med innbyggere som blir eldre og eldre. På den andre siden er det viktig at innvandrere vil integrere seg med samfunnet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Debts</title>
+      <link>https://27am.github.io/post/other/debt/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/other/debt/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;: &lt;em&gt;Every time we rip the benefit of something without knowing what&amp;rsquo;s behind we are contracting a debt. Eating a delicious meal without knowing how (or willing to) to prepare it is a culinary debt. Most of us are comfortable with the idea and indeed repaying the debt with money is what makes the busness of restaurants to keep going. However, there a several kinds of debts, in virtually everything you can think of.&lt;/em&gt;&lt;/p&gt;
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://27am.github.io/img/neuro/sunset.jpg&#34; &gt;
+&lt;img data-src=&#34;https://27am.github.io/img/neuro/sunset.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://distill.pub/2017/research-debt/&#34;&gt;research debt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://amir.rachum.com/amp/blog/2016/09/15/knowledge-debt.html&#34;&gt;knowledge debt&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Escaping the local optimum of low expectation</title>
+      <link>https://27am.github.io/post/videos/escaping-local-optimum/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/videos/escaping-local-optimum/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/5qjA8HPJl_0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;takeways&#34;&gt;Takeways&lt;/h3&gt;
+&lt;p&gt;L.F. gives five advices during the video, which I think are worth reflecting
+1.
+2.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consciousness</title>
+      <link>https://27am.github.io/post/neuro/consciousness/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/neuro/consciousness/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary.&lt;/strong&gt; &lt;em&gt;We are our greatest mystery to ouselfs&lt;/em&gt;&lt;/p&gt;
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://27am.github.io/img/neuro/sunset.jpg&#34; &gt;
+&lt;img data-src=&#34;https://27am.github.io/img/neuro/sunset.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;I am often surprised how people are eager to start long debates about consciousness and its implications, if animals are conscious, when the fetus becomes conscious etc. without stopping first and ponder a definition: what is consciousness? As often happens, there are several definitions in the wild and a safe bet is that no one sitting around the table has the same one. Even harder is to reason about consciousness through introspection, since it resembles trying to raise a chair while sitting on it: the object and the subject of a scientific and rigorous analysis do coincide. How can&amp;rsquo;t we possibly fool ouselves while doing so?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My way to read a book</title>
+      <link>https://27am.github.io/post/reading/my-way-to-read-a-book/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/reading/my-way-to-read-a-book/</guid>
+      <description>&lt;p&gt;Reading seems easy. Your eyes might run effortlessly, crunching black ink shapes on snow white paper and yet, when you try to recall what you have just read, emptiness. It happens to everybody, that&amp;rsquo;s why I believe it is important to have some sort of technique while reading. Even if is seems as simple as reading.
+Those are the steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Gather contextual information about the book. Who is the author? When and where was it written?&lt;/li&gt;
+&lt;li&gt;Read the book while taking notes on the margins.&lt;/li&gt;
+&lt;li&gt;After every paragraph pause and reflect on what you have been reading.&lt;/li&gt;
+&lt;li&gt;When you finish the book wait one week, then review its structure, the main concepts and your notes.&lt;/li&gt;
+&lt;li&gt;Find your personal way to index the knowledge you just acquired.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Following those steps requires effort, and makes Sometimes I find myself skipping some of those points although as a rule I try to stick to them. Let&amp;rsquo;s have a look a bit more in detail.&lt;/p&gt;
+&lt;h4 id=&#34;1-gather-contextual-information-about-the-book&#34;&gt;1. Gather contextual information about the book&lt;/h4&gt;
+&lt;p&gt;Every book has a story behind, which is not told in its pages. The author is very likely to have spent ten times more time writing them than you reading.
+Moreover every person is influenced by the current social and historical context. To correctly interpret the main ideas we should be able to grasp this and put the book&amp;rsquo;s argumentation in perspective.&lt;/p&gt;
+&lt;h4 id=&#34;2-read-it-taking-notes-on-the-margins&#34;&gt;2. Read it taking notes on the margins&lt;/h4&gt;
+&lt;p&gt;Those are called marginalia and I haven&amp;rsquo;t been using them since the beginning. I actually though to be an ominous crime to ruin let alone write on any book.&lt;/p&gt;
+&lt;h4 id=&#34;3-after-every-paragraph-pause-and-reflect-on-what-you-have-been-reading&#34;&gt;3. After every paragraph pause and reflect on what you have been reading.&lt;/h4&gt;
+&lt;p&gt;Reflection&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mining in Bitcoin</title>
+      <link>https://27am.github.io/post/blockchain/mining-in-bitcoin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/blockchain/mining-in-bitcoin/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary.&lt;/strong&gt; &lt;em&gt;The gold of the 21st century is not made of atoms but bits. Old terms acquire new meanings, while society steadily walks towards post-modernism.&lt;/em&gt;&lt;/p&gt;
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://27am.github.io/img/blockchain/excavator.jpg&#34; &gt;
+&lt;img data-src=&#34;https://27am.github.io/img/blockchain/excavator.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The term &lt;em&gt;mining&lt;/em&gt; might evoke ancient times images: gold diggers of the 19th centuries rushing to be the first one to discover a gold vein, or in more recent times it might remind you of the pixellated word of Minecraft (and dozens similar).&lt;/p&gt;
+&lt;p&gt;In Bitcoin, mining is not performed by digging a hole with a shovel but instead by computing cryptographic hash functions as quickly as possible in order to find our gold: the solution to a crypto puzzle. The output of a hash function is called digest, and for us to be valid it must belong to a limited set of solution whose value has to be lower than an adjustable threshold, i.e. it should, at least in the case of Bitcoin, begin with a certain number of leading zeros.
+The solution for this cryptographic puzzle is a scarce resource (exactly like diamonds) which makes it valuable.
+That’s the ingenious trick devised to give Bitcoin an economical value while remaining just a sequence of bits in somebody’s hard drive. It emulates in a digital environment the pile of gold that has been hardly and over time accumulated in a bank’s vault.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;That’s not the only possible type of Proof.  In general, in order to be a viable mining technique, it should satisfy some properties:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Be easy to verify, although moderately difficult to calculate&lt;/li&gt;
+&lt;li&gt;The effort to find a solution should be adjustable&lt;/li&gt;
+&lt;li&gt;The chance to find a solution should be proportional to the resources spent in mining, preventing one single miner to always win the race just because it’s the fastest. This property is called progress-free, memoryless or stateless.&lt;br&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Using mining techniques limits consistently the impact of Sybil attacks while giving a way to reach a consensus through the simple rule of expanding the longest chain. Indeed, without mining, any malicious actor would be able to destroy the system by creating fake identities.
+It’s still possible to subvert the system by owning large part of it, namely 51%, but it would be highly costly and, since it would destroy the trust and the profitability of the system right afterwards, it’s considered totally irrational from an economic point of view.
+This is linked to the concept of Nash equilibrium, where each stakeholder has the interest of following the rules of the system.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;For more details, &lt;a href=&#34;http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html&#34;&gt;Bitcoin mining the hard way&lt;/a&gt; is truly a gold mine.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;em&gt;Bitcoin and Cryptocurrency Technologies - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[2]&lt;/strong&gt; &lt;em&gt;Bitcoin and Beyond: A Technical Survey on Decentralized Digital Currencies - Florian Tschorsch, Björn Scheuerman&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MiCa: A Compositional Architecture for Gossip Protocols</title>
+      <link>https://27am.github.io/post/papers/mica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/papers/mica/</guid>
+      <description>&lt;p&gt;The paper can be found &lt;a href=&#34;https://www.inf.usi.ch/faculty/soule/pubs/ecoop2014.pdf&#34;&gt;here.&lt;/a&gt; and discusses a system to build management tools based on gossip protocols.&lt;/p&gt;
+&lt;p&gt;In general, gossip protocols are characterized by randomized peer selection and periodic communication, which makes them extremely fault tolerant since there is no realiance on a single path.&lt;/p&gt;
+&lt;p&gt;MiCa allows to compose several different gossip protocols and to run them independently&lt;/p&gt;
+&lt;p&gt;A protocols is defined by a tuple containing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Node&amp;rsquo;s states&lt;/li&gt;
+&lt;li&gt;Rate of gossiping&lt;/li&gt;
+&lt;li&gt;View: A probability mass distribution to sample the peers&lt;/li&gt;
+&lt;li&gt;update of state&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The framework supports different typs of composition&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Independence preserving&lt;/li&gt;
+&lt;li&gt;Correlated: the gossip subprotocols are exectuted together as often as possible while presering the probability distributiond and the Rate&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;An example of composition is to first create a tree overlay, executed a broadcast opeation to the leaf nodes of the overlay and then aggregate the result back to the overlay root, i.e. a node acting as a leader.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The benefit of programming</title>
+      <link>https://27am.github.io/post/2018-08-21-the-benefits-of-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://27am.github.io/post/2018-08-21-the-benefits-of-programming/</guid>
+      <description>&lt;p&gt;This is a small story about having a &amp;ldquo;programming hat&amp;rdquo; in your closet ready to be worn.&lt;/p&gt;
+&lt;p&gt;I like math and I have great respect for every profession that involves it. Therefore I continuously try to keep me in
+exercise solving problems and recently I have found out about a beautiful website called &lt;a href=&#34;https://brilliant.org&#34;&gt;&lt;em&gt;Brilliant&lt;/em&gt;&lt;/a&gt;. It has a very well design that makes you wanting to spend hours there
+and proposes loads of exercises.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://27am.github.io/imgs/brilliant01.png&#34; alt=&#34;Found the Radius&#34;&gt;{:height=&amp;ldquo;50%&amp;rdquo; width=&amp;ldquo;50%&amp;rdquo;}&lt;/p&gt;
+&lt;p&gt;I stumbled upon this particular exercises but I didn&amp;rsquo;t want to give up, I felt it was totally at my reach
+but I couldn&amp;rsquo;t find a closed solution so I decided to write a program to solve it (with my favorite programming language which, by the way, is python).&lt;/p&gt;
+&lt;p&gt;As soon as I started to formalize the problem and to develop equations that would constrain the solution I could see very clearly the calculation that would have brought me to the numerical solution.&lt;/p&gt;
+&lt;p&gt;I firmly believe that every project in STEM area should be accompanied by some code that wraps the idea up. Programming should be taught starting from the first year of college so to give every student the time to crystallize concepts and improve. I find this true also for inherently speculative and less practical subjects like mathematics and physics, especially the way they are taught in Italy. I always had passion for practical activity and programming gives you the power to actually create something that wasn&amp;rsquo;t existing before, pretty much as craftsmanship or gardening.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
